@@ -1,8 +1,8 @@
 from typing import List, TypeVar
-from language_dictionary import read_lines_from_files, DictionaryEntry, DE
+from language_dictionary import read_lines_from_files, Word
 
 
-LD = TypeVar("LD", bound="LanguageDictionary")
+TypeLanguageDictionary = TypeVar("TypeLanguageDictionary", bound="LanguageDictionary")
 
 
 class LanguageDictionary:
@@ -13,7 +13,7 @@ class LanguageDictionary:
         self.sep = sep
 
     @classmethod
-    def from_files(cls, language: str, files: List[str], sep: str = "-") -> LD:
+    def from_files(cls, language: str, files: List[str], sep: str = "-") -> TypeLanguageDictionary:
         new_dict = LanguageDictionary(language=language, sep=sep)
         new_dict.get_lines_from_files(files)
         new_dict.get_entries_from_lines()
@@ -23,8 +23,8 @@ class LanguageDictionary:
         lines = read_lines_from_files(files)
         self.entries_lines = self.format_lines(lines)
 
-    def get_entry_from_line(self, line: str) -> DE:
-        return DictionaryEntry.from_line(line, sep=self.sep)
+    def get_entry_from_line(self, line: str) -> Word:
+        return Word.from_line(line, sep=self.sep)
 
     def get_entries_from_lines(self):
         for line in self.entries_lines:

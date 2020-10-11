@@ -1,5 +1,6 @@
 from typing import List
 
+
 def read_lines_from_files(files: List[str]) -> set:
     """
     Returns a set with all the lines found in input files.
