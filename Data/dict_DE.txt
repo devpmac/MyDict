@@ -1,21 +1,31 @@
 der Aufwand (n, m)				-	expense, cost, effort
+das Anführungszeichen (n, n)	-	quotation mark
 die Anlage (n, f)         		-   system, investment
 die Anmerkung (n, f)			-	note, comment	- 	Ich schrieb eine Anmerkung zu dem unbekannten Begriff.
 der Antrag (n, m)				-	application, request 	-	Ich beziehe mich auf Ihr Schreiben bezüglich eines Antrages auf Mieterwechsel.
+das Arbeitspensum (n, n)		-	workload	-	Ich kann mein Arbeitspensum leicht bewältigen.
 die Aufzeichnung (n, f)         -	record, recording, logging	-	Mit dieser Kamera sind sowohl Aufzeichnung als auch Wiedergabe möglich.
 der Ausfall (n, m)        		-   failure, malfunction
+das Ausmaß (n, n)				-	extent, dimension			-	Zum Glück war das Ausmaß des Schadens begrenzt.
 die Auswertung (n, f) 			- 	evaluation, analysis
 die Auszeichnung (n, f)         -	award, distinction
 das Begehren (n, nt)			-	desire, wish
 das Begreifen (n, nt) 			- 	comprehension, understanding
 der Belang (n, m) 				- 	interest, concern
-die Belastbarkeit (n, f)		- 	capacity; resilience
+die Belastbarkeit (n, f)		- 	capacity, resilience
+die Belegschaft (n, f)			-	workforce, staff - Die Hälfte der Belegschaft des Unternehmens besteht aus Frauen.
 das Benehmen (n, nt)          	-   behavior, conduct
 der Berufskraftfahrer (n, m) 	-	trucker
+die Bestechung	(n, f)			-	bribery, corruption	-	Die neue Regierung versprach, Betrug und Bestechung zu bekämpfen.
+der Betrug	(n, m)				-	fraud, deception		-	Dem Mann wurden Erpressung und Betrug vorgeworfen.
+die Entfaltung (n, f)			-	unfolding, development
 der Entwurf (n, m)              -   design, sketch, concept
 die Ermittlung (n, f)			-	determining, investigation
+die Erpressung (n, f)			-	blackmail, extortion
 die Erstellung (n, f)         	-   preparation, creation
+die Falte (n, f)				-	fold, crease, wrinkle
 das Fragezeichen (n, nt)		-	question mark
+die Gänsefüßchen (n, pl)		-	quotation marks
 das Gehäuse (n, nt)				-	housing, casing, package
 das Gesundheitswesen (n, nt)	-   healthcare
 der Gipfel (n, m)				- 	summit, peak
@@ -67,6 +77,7 @@ absolvieren (v) 			- 	complete, do, finish	-	Sie absolvierte ihr Studium mit Aus
 anklemmen (v)               -   connect
 anlegen (v) 				- 	create, invest
 auffallen (v)       		-	stand out, attract 	-	Ihr neuer Haarschnitt fiel ihrem Ehemann sofort auf.
+auflösen (v)				-	dissolve, disperse, close	-	Wir müssen Grenzen auflösen, und mehr Raum für Freidenken schaffen!
 aufrufen (v)				-	call, invoke
 ausführen (v) 				- 	perform, carry out, execute	-	Die Installation wird automatisch ausgeführt.
 ausloten (v)                -   sound out, sondar
@@ -80,6 +91,8 @@ benötigen (v)				-	need, require
 beschimpfen (v)             -   abuse, insult   - Der wütende Fan beschimpfte den Schiedsrichter.
 bestärken (v)				-   strengthen, encourage
 bestreuen (v) 				- 	sprinkle, powder
+beteuern (v)				-	affirm, reaffirm, assert	-	Der Politiker beteuerte, er sei den Prinzipien der Demokratie verpflichtet.
+bewältigen (v)				-	cope, overcome, manage		-	
 bewirken (v)				-   cause, bring about
 bezeichnen (v) 				- 	call, designate, denote
 bewahren (v) 				- 	maintain, preserve, keep
@@ -87,19 +100,25 @@ brüllen (v) 				- 	roar, shout
 durchführen (v) 			- 	bis Ende machen
 einstellen (v)	 			- 	set, adjust, cease, stop
 entfachen (v)               -   spark, ignite
+entfalten (v)				-	unfold, display 		-	Die Künstlering entfaltete ihr ganzes Potential.
 entlasten (v)               -   relieve, disburden
 entlarven (v)				-	debunk, unmask, expose	-	Der Ermittler entlarvte die Täter.
 entziehen (v)               -   withdraw
 erfordern (v) 				- 	require, call for, involve
+erörtern (v)				-	discuss, debate		-	Ich erörtere gerne philosophische Fragen.
 erstatten (v) 				- 	reimburse, refund
 erwerben (v) 				- 	acquire, gain
 erzwingen (v) 				- 	enforce, constrain
+falten (v)					-	unfold, display
 fordern (v)					- 	demand, request
 fördern (v) 				- 	promote, support
 freigeben (v)               -   release
+gähnen (v)					-	yawn			-	Der kleine Junge gähnt viel, er scheint müde zu sein.
 genehmigt (v)				-   approved, authorized
 gewährleisten (v)           -   ensure, guarantee
 gliedern (v) 				- 	divide, structure, order
+hauchen (v)					-	breathe, aspirate	-	Ein Hauch von Schnee hatte den Rasen über Nacht weiß gefärbt
+hervorheben					-	highlight, emphasize -	Der Lehrer hob die wichtigsten Aspekte des Textes hervor.
 hinterlegen (v)				-	deposit, lodge
 hüpfen (v)					-	hop, leap, bounce	-	Das Kind hüpfte über die Pfütze.
 kippen (v)					-   tilt, tip
@@ -131,10 +150,13 @@ verstreichen (v)            -   pass, elapse
 verwerfen (v)               -   reject, discard
 verwüsten (v)               -   devastate, ravage
 verzahnen (v)               -   interlock, interlink
+vollziehen (v)				-	carry out, administer	-	Der Politiker vollzieht Beschlüsse aus der Kaffeerunde bei der Kanzlerin.
 vorliegen (v)               -   exist, be there
+vorwerfen (v)				-	accuse
 wettmachen (v)				-   offset, compensate
 widmen (v)					-	pay, dedicate
 wittern (v)                 -   scent, sniff, smell
+zitieren (v)				-	quote 	-	Der Lehrer zitierte aus dem Tagebuch des Autors.
 zuordnen (v)                -   assign sth to sb, allocate
 zurückweisen (v)			-	reject, overrule, refuse	-	Mein Vorschlag wurde zurückgewiesen.
 zusammensetzen (v)			-	compose, assemble	-	Das Konzert setzte sich aus verschieden Auftritten zusammen.
@@ -149,7 +171,9 @@ ausreichend (adj) 			- 	sufficient, adequate
 beliebig (adj)	 			- 	arbitrary, random, optional
 beheben (adj)		 		- 	fix, remedy, solve
 bereichernd (adj) 			- 	rewarding
+besonnen (adj)				-	calm, prudent	-	Eine besonnene Person trifft keine übereilten Entscheidungen.
 bestürzt (adj)              -   schocked, appalled
+buchstäblich (adj)			-	literal			-	Die buchstäbliche Übersetzung eines Wortes ist nicht immer die beste.
 demütig (adj) 				- 	humble
 eingeschränkt (adj)			-   restricted, limited
 eklig (adj)					-	disgusting
@@ -162,16 +186,20 @@ getrost (adj) 				- 	confident, safe
 gewidmet (adj)				-	dedicated, devoted
 glatt (adj)					-	smooth, even, straight
 herangezogen (adj) 			- 	pulled up, cultivated
+karg (adj)					-	sparse, frugal		- Die Wüste ist trocken mit karger Vegetation.
 kühn (adj)                  -   bold
 lediglich (adj)             -   only, solely
+lückenlos (adj)				-	complete, gapless
 nähctlich (adj)				-	nocturnal, nighttime	-	Ich habe Spaß am Tanzen und anderen nächtlichen Aktivitäten.
 nachträglich (adj) 			- 	belated, subsequent
+redselig (adj)				-	talkative
 schlank (adj)		 		- 	elegant, slim
 schleppend (adj)            -   slow, sluggish
 stellenweise (adj)          -   in parts
 stur (adj) 					-	stubborn
 umgehend (adj) 				- 	immediately
 umständlich (adj)			-	cumbersome, laborious
+uneins (adj)				-	divided				-	Im Nachhaltigkeitsdebatten sind aber selbst die Experten uneins über die Verlässlichkeit ihrer Statistiken und Prognosen.
 ungeschickt (adj)			- 	clumsy, unhandy
 unmittelbar (adj) 			- 	direct, immediate
 unvollständig (adj) 		- 	incomplete
@@ -179,8 +207,12 @@ verheerend (adj)            -   devastating, disastrous
 vermeintlich (adj)          -   supposed, alleged, presumed
 versehentlich (adj)			-   inadvertent, accidental
 vorig (adj)                 -   previous
+wortgewandt (adj)			-	eloquent, articulate	-	Der wortgewandte Politiker wird oft als Redner eingeladen.
+wortkarg (adj)				-	taciturn, silent	-	Der redselige kleine Junge ist heute ungewöhnlich wortkarg.
+wortwörtlich (adj)			-	literal, word-for-word
 zugänglich (adj)			-	accessible, open, approachable
 zugehörig (adj)             -   belonging to, related
+zumutbar (adj)				-	reasonable, acceptable
 
 andersrum (adv)	 			- 	the other way around
 beziehungsweise (adv)		- 	rather/to be more precise
@@ -203,6 +235,7 @@ sich herausstellen (v) 	-	turn out, prove	-	Sein Vorwurf hat sich als falsch her
 sich herumsprechen (v) 	-	get around
 auf etw [Akk] verweisen (v)	-	refer/point to sth - Wir verweisen hierzu auf die Erläuterungen der entsprechenden Aktivposten.
 von etw ausgehen (v) 	-	assume	-	Die Deutsche gehen von einer zweiten Welle an. s.
+sich auf etw. [Akk] einigen		-	agree to, agree on 	-	Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag.
 
 bis auf [Akk] (prep)		-	except for, apart from, up to
 sofern (conj) 				-	if, provided that, as long as
