@@ -18,6 +18,7 @@ das Benehmen (n, nt)          	-   behavior, conduct
 der Berufskraftfahrer (n, m) 	-	trucker
 die Bestechung	(n, f)			-	bribery, corruption	-	Die neue Regierung versprach, Betrug und Bestechung zu bekämpfen.
 der Betrug	(n, m)				-	fraud, deception		-	Dem Mann wurden Erpressung und Betrug vorgeworfen.
+der Bursche (n, m)				-	guy, lad 				-	Der Sohn meiner Freundin ist ein witziger Bursche.
 die Entfaltung (n, f)			-	unfolding, development
 der Entwurf (n, m)              -   design, sketch, concept
 die Ermittlung (n, f)			-	determining, investigation
@@ -48,7 +49,9 @@ die Pfütze (n, f)				-	puddle	-	Das Eis auf der Pfütze knackt, als ich darauf 
 der Rahmenauftrag (n, m)		-	blanket order, general
 die Rückwaren (n, f) 			-	returned goods
 die Schachtel (n, f)	 		- 	box, package, carton
+der Schal (n, m)				-	scarf 	-	Mein neuer Schal ist aus Seide.
 die Schnittstelle (n, f) 		- 	interface, port, intersection	-	Die neue Schnittstelle des Betriebssystems ist sehr intuitv.
+die Seide (n, f)				-	silk
 die Spedition (n, f)            - 	shipping company
 der Trost (n, m)                -   comfort, consolation
 die Überschrift (n, f)			-	heading, title
@@ -147,6 +150,7 @@ verschlingen (v)			-	devour	-	Dein Kuchen war so gut, dass ich alles verschlunge
 verschlucken (v)			-	swallow, absorb, slur	-	Er verschluckt ganze Silben, wenn er schnell spricht.
 verspüren (v)               -   feel
 verstreichen (v)            -   pass, elapse
+verwelken (v)				-	wither, fade			-	Die Blumen verwelken in der Hitze.
 verwerfen (v)               -   reject, discard
 verwüsten (v)               -   devastate, ravage
 verzahnen (v)               -   interlock, interlink
@@ -163,6 +167,7 @@ zusammensetzen (v)			-	compose, assemble	-	Das Konzert setzte sich aus verschied
 zuschlagen (v)				-	strike, slam
 zutreffen (v)				-   apply, be true
 
+abgestanden (adj)			-	stale, flat 		-	Um abgestandene Luft loszuwerden, kann man ein Fenster öffnen.
 angewiesen (adj)			-	instructed, dependent
 aufgeregt (adj)	 			- 	excited, nervous, agitaed
 aufrichtig (adj)	 		- 	sincere, genuine, honest
@@ -180,11 +185,13 @@ eklig (adj)					-	disgusting
 ergeizig (adj)              -   ambitious, competitive
 erheblich (adj)             -   considerable, substantial
 erschöpft (adj) 			- 	exhausted
+fade (adj)					-	bland, insipid	-	Das Essen schmeckte etwas fade.
 fehlerhaft (adj) 			- 	incorrect, faulty
 geschickt (adj) 			- 	skillful, clever
 getrost (adj) 				- 	confident, safe
 gewidmet (adj)				-	dedicated, devoted
 glatt (adj)					-	smooth, even, straight
+hartnäckig (adj)			-	stubborn, persistent	-	Hartnäckige Menschen geben nicht leift auf.
 herangezogen (adj) 			- 	pulled up, cultivated
 karg (adj)					-	sparse, frugal		- Die Wüste ist trocken mit karger Vegetation.
 kühn (adj)                  -   bold
@@ -193,6 +200,7 @@ lückenlos (adj)				-	complete, gapless
 nähctlich (adj)				-	nocturnal, nighttime	-	Ich habe Spaß am Tanzen und anderen nächtlichen Aktivitäten.
 nachträglich (adj) 			- 	belated, subsequent
 redselig (adj)				-	talkative
+shal (adj)					-	stale, flat 			-	Nach zwei Stunden in der Sonne was das Bier schal.
 schlank (adj)		 		- 	elegant, slim
 schleppend (adj)            -   slow, sluggish
 stellenweise (adj)          -   in parts
@@ -210,6 +218,7 @@ vorig (adj)                 -   previous
 wortgewandt (adj)			-	eloquent, articulate	-	Der wortgewandte Politiker wird oft als Redner eingeladen.
 wortkarg (adj)				-	taciturn, silent	-	Der redselige kleine Junge ist heute ungewöhnlich wortkarg.
 wortwörtlich (adj)			-	literal, word-for-word
+zäh (adj)					-	tough, tenacious	-	Der Boxer war ein zäher, hartnäckiger Bursche.
 zugänglich (adj)			-	accessible, open, approachable
 zugehörig (adj)             -   belonging to, related
 zumutbar (adj)				-	reasonable, acceptable
