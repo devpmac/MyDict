@@ -140,6 +140,7 @@ umstellen (v) 				-	adjust, adapt, surround
 übertragen (v) 				- 	transfer, transmit,
 unternehmen (v)				- 	undertake, zusammen machen	-	Mein Freund und ich planen, was wir am Wochenende unternehmen wollen.
 verauslagen (v)				-	disburse	-	Ich habe dir den verauslagten Betrag gerade überwiesen.
+verdichten (v)				-	compact, condense, compress - Diese Maschine verdichtet das Material, indem sie Druck ausübt.
 verfassen (v) 				- 	write, draft, pen
 verfluchen (v)              -   curse, damn
 vergeben (v) 				- 	award, assign; forgive
@@ -177,6 +178,7 @@ beliebig (adj)	 			- 	arbitrary, random, optional
 beheben (adj)		 		- 	fix, remedy, solve
 bereichernd (adj) 			- 	rewarding
 besonnen (adj)				-	calm, prudent	-	Eine besonnene Person trifft keine übereilten Entscheidungen.
+beständig (adj)				-	constant, resistant -	Wein muss bei einer beständigen Temperatur gelagert werden.
 bestürzt (adj)              -   schocked, appalled
 buchstäblich (adj)			-	literal			-	Die buchstäbliche Übersetzung eines Wortes ist nicht immer die beste.
 demütig (adj) 				- 	humble
@@ -205,6 +207,7 @@ schlank (adj)		 		- 	elegant, slim
 schleppend (adj)            -   slow, sluggish
 stellenweise (adj)          -   in parts
 stur (adj) 					-	stubborn
+träge (adj)					-	slow, sluggish	-	Ich fühle mich zu träge, um aus dem Bett aufzustehen.
 umgehend (adj) 				- 	immediately
 umständlich (adj)			-	cumbersome, laborious
 uneins (adj)				-	divided				-	Im Nachhaltigkeitsdebatten sind aber selbst die Experten uneins über die Verlässlichkeit ihrer Statistiken und Prognosen.
@@ -213,6 +216,7 @@ unmittelbar (adj) 			- 	direct, immediate
 unvollständig (adj) 		- 	incomplete
 verheerend (adj)            -   devastating, disastrous
 vermeintlich (adj)          -   supposed, alleged, presumed
+verschmerzbar (adj)			-	bearable	- Diese Unkompliziertheit macht das Fehlen eines manuellen Modus verschmerzbarer.
 versehentlich (adj)			-   inadvertent, accidental
 vorig (adj)                 -   previous
 wortgewandt (adj)			-	eloquent, articulate	-	Der wortgewandte Politiker wird oft als Redner eingeladen.
