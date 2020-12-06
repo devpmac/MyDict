@@ -1,4 +1,4 @@
-from language_dictionary import LanguageDictionary, WordDefinition
+from language_dictionary import LanguageDictionary  # , WordDefinition
 
 ld = LanguageDictionary.from_files("de", ["Data/dict_DE.txt"])
 

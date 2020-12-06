@@ -1,5 +1,5 @@
 from typing import List, TypeVar
-from language_dictionary import read_lines_from_files, Word, WordDefinition
+from language_dictionary import read_lines_from_files, WordDefinition
 
 
 TypeLanguageDictionary = TypeVar("TypeLanguageDictionary", bound="LanguageDictionary")
