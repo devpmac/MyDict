@@ -1,5 +1,5 @@
 from typing import List, TypeVar
-from language_dictionary import read_lines_from_files, Word
+from language_dictionary import read_lines_from_files, Word, WordDefinition
 
 
 TypeLanguageDictionary = TypeVar("TypeLanguageDictionary", bound="LanguageDictionary")
@@ -8,31 +8,36 @@ TypeLanguageDictionary = TypeVar("TypeLanguageDictionary", bound="LanguageDictio
 class LanguageDictionary:
     def __init__(self, language: str, sep: str = "-"):
         self.language = language
-        self.entries_lines = set()
-        self.entries_dict = dict()
+        self.words = dict()
         self.sep = sep
 
     @classmethod
     def from_files(cls, language: str, files: List[str], sep: str = "-") -> TypeLanguageDictionary:
         new_dict = LanguageDictionary(language=language, sep=sep)
-        new_dict.get_lines_from_files(files)
-        new_dict.get_entries_from_lines()
+        lines = cls.get_lines_from_files(files)
+        new_dict.get_entries_from_lines(lines)
         return new_dict
 
-    def get_lines_from_files(self, files: List[str]):
+    @classmethod
+    def get_lines_from_files(cls, files: List[str]):
         lines = read_lines_from_files(files)
-        self.entries_lines = self.format_lines(lines)
+        return cls.format_lines(lines)
 
-    def get_entry_from_line(self, line: str) -> Word:
-        return Word.from_line(line, sep=self.sep)
+    def get_definition_from_line(self, line: str) -> WordDefinition:
+        if self.language != "de":
+            line = line.lower()
+        return WordDefinition.from_line(language=self.language, line=line, sep=self.sep)
 
-    def get_entries_from_lines(self):
-        for line in self.entries_lines:
-            entry = self.get_entry_from_line(line)
-            if entry.word not in self.entries_dict:
-                self.entries_dict[entry.word] = [entry]
-            elif entry not in self.entries_dict[entry.word]:
-                self.entries_dict[entry.word].append(entry)
+    def append_definition(self, definition: WordDefinition):
+        if definition not in self.words:
+            self.words[definition.word] = [definition]
+        else:
+            self.words[definition.word].append(definition)
+
+    def get_entries_from_lines(self, lines: List[str]):
+        for line in lines:
+            definition = self.get_definition_from_line(line)
+            self.append_definition(definition)
 
     def print_lines_to_file(self, output_file: str):
         """
