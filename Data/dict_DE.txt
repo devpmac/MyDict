@@ -95,7 +95,7 @@ beschimpfen (v)             -   abuse, insult   - Der wütende Fan beschimpfte d
 bestärken (v)				-   strengthen, encourage
 bestreuen (v) 				- 	sprinkle, powder
 beteuern (v)				-	affirm, reaffirm, assert	-	Der Politiker beteuerte, er sei den Prinzipien der Demokratie verpflichtet.
-bewältigen (v)				-	cope, overcome, manage		-	
+bewältigen (v)				-	cope, overcome, manage		-
 bewirken (v)				-   cause, bring about
 bezeichnen (v) 				- 	call, designate, denote
 bewahren (v) 				- 	maintain, preserve, keep
@@ -121,7 +121,7 @@ genehmigt (v)				-   approved, authorized
 gewährleisten (v)           -   ensure, guarantee
 gliedern (v) 				- 	divide, structure, order
 hauchen (v)					-	breathe, aspirate	-	Ein Hauch von Schnee hatte den Rasen über Nacht weiß gefärbt
-hervorheben					-	highlight, emphasize -	Der Lehrer hob die wichtigsten Aspekte des Textes hervor.
+hervorheben	(v)				-	highlight, emphasize -	Der Lehrer hob die wichtigsten Aspekte des Textes hervor.
 hinterlegen (v)				-	deposit, lodge
 hüpfen (v)					-	hop, leap, bounce	-	Das Kind hüpfte über die Pfütze.
 kippen (v)					-   tilt, tip
@@ -248,7 +248,7 @@ sich herausstellen (v) 	-	turn out, prove	-	Sein Vorwurf hat sich als falsch her
 sich herumsprechen (v) 	-	get around
 auf etw [Akk] verweisen (v)	-	refer/point to sth - Wir verweisen hierzu auf die Erläuterungen der entsprechenden Aktivposten.
 von etw ausgehen (v) 	-	assume	-	Die Deutsche gehen von einer zweiten Welle an. s.
-sich auf etw. [Akk] einigen		-	agree to, agree on 	-	Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag.
+sich auf etw. [Akk] einigen	(v expr)	-	agree to, agree on 	-	Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag.
 
 bis auf [Akk] (prep)		-	except for, apart from, up to
 sofern (conj) 				-	if, provided that, as long as
