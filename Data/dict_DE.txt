@@ -182,6 +182,9 @@ beständig (adj)				-	constant, resistant -	Wein muss bei einer beständigen Tem
 bestürzt (adj)              -   schocked, appalled
 buchstäblich (adj)			-	literal			-	Die buchstäbliche Übersetzung eines Wortes ist nicht immer die beste.
 demütig (adj) 				- 	humble
+durchschaubar (adj)			-	transparent
+durchscheinend (adj)		-	translucid
+durchsichtig (adj)			-	transparent
 eingeschränkt (adj)			-   restricted, limited
 eklig (adj)					-	disgusting
 ergeizig (adj)              -   ambitious, competitive
