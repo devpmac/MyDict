@@ -1,43 +1,49 @@
 from typing import List, TypeVar
-from language_dictionary import read_lines_from_files, WordDefinition
+from language_dictionary import utils, Word
 
 
 TypeLanguageDictionary = TypeVar("TypeLanguageDictionary", bound="LanguageDictionary")
 
 
 class LanguageDictionary:
-    def __init__(self, language: str, sep: str = "-"):
+    def __init__(self, language: str, sep: str = "|"):
         self.language = language
-        self.words = dict()
+        self.words = set()
         self.sep = sep
 
     @classmethod
-    def from_files(cls, language: str, files: List[str], sep: str = "-") -> TypeLanguageDictionary:
+    def from_files(cls, language: str, files: List[str], sep: str = "|") -> TypeLanguageDictionary:
         new_dict = LanguageDictionary(language=language, sep=sep)
         lines = cls.get_lines_from_files(files)
-        new_dict.get_entries_from_lines(lines)
+        new_dict.get_words_from_lines(lines)
         return new_dict
 
     @classmethod
     def get_lines_from_files(cls, files: List[str]):
-        lines = read_lines_from_files(files)
+        lines = utils.read_lines_from_files(files)
         return cls.format_lines(lines)
 
-    def get_definition_from_line(self, line: str) -> WordDefinition:
+    def get_known_word(self, word_to_check: Word):
+        for known_word in self.words:
+            if known_word == word_to_check:
+                return known_word
+
+    def append_word(self, new_word: Word):
+        known_word = self.get_known_word(new_word)
+        if not known_word:
+            self.words.add(new_word)
+        else:
+            known_word.merge(new_word)
+
+    def get_words_from_lines(self, lines: List[str]):
+        for line in lines:
+            word = self.get_word_from_line(line)
+            self.append_word(word)
+
+    def get_word_from_line(self, line: str) -> Word:
         if self.language != "de":
             line = line.lower()
-        return WordDefinition.from_line(language=self.language, line=line, sep=self.sep)
-
-    def append_definition(self, definition: WordDefinition):
-        if definition not in self.words:
-            self.words[definition.word] = [definition]
-        else:
-            self.words[definition.word].append(definition)
-
-    def get_entries_from_lines(self, lines: List[str]):
-        for line in lines:
-            definition = self.get_definition_from_line(line)
-            self.append_definition(definition)
+        return Word.from_line(language=self.language, line=line, sep=self.sep)
 
     def print_lines_to_file(self, output_file: str):
         """
@@ -47,16 +53,13 @@ class LanguageDictionary:
         with open(output_file, "w") as file:
             # Dictionary starts with "A"
             initial = "A"
-            for entry in sorted(self.entries_lines):
+            for entry in sorted(self.words):
                 if entry:
-                    new_initial = entry[0].upper()
+                    new_initial = entry.get_initial().upper()
                     if new_initial != initial:
-                        entry = "\n" + entry
-                    file.write(entry)
+                        file.write("\n")
+                    file.write(str(entry))
                     initial = new_initial
-
-            if not entry.endswith("\n"):
-                file.write("\n")
 
     @classmethod
     def format_lines(cls, lines: set) -> set:
