@@ -1,300 +1,336 @@
-der Aufwand | n.m | expense, cost, effort | Das Unternehmen erhöhte seinen Aufwand für Forschung und Entwicklung.
-das Anführungszeichen | n.nt | quotation mark | Direkte Rede wird in Anführungszeichen gesetzt.
-die Anlage | n.f | system, investment | Die Anlage arbeitet schon vollautomatisch.
-die Anlaufstelle | n.f | contact point | Die erste Anlaufstelle für Besucher ist die Rezeption.
-die Anmerkung | n.f | note, comment | Ich schrieb eine Anmerkung zu dem unbekannten Begriff.
-der Antrag | n.m | application, request | Ich beziehe mich auf Ihr Schreiben bezüglich eines Antrages auf Mieterwechsel.
-das Arbeitspensum | n.nt | workload | Ich kann mein Arbeitspensum leicht bewältigen.
-der Aufprall | n.m | impact, collision, crash | Beim Aufprall entstands an dem Fiat Totalschaden, geschätzt rund 5000 Euro.
-die Aufteilung | n.f | distribution, division | Unsere Abteilung ist für die Aufteilung der Ressourcen verantwortlich.
-die Aufzeichnung | n.f | record, recording, logging | Mit dieser Kamera sind sowohl Aufzeichnung als auch Wiedergabe möglich.
-der Ausfall | n.m | failure, malfunction | Der Ausfall einer Maschine kann zum Stillstand der Produktion führen.
-die Ausgangssperre | n.f | curfew | Die Demonstranten widersetzten sich der Ausgangssperre.
-das Ausmaß | n.nt | extent, dimension | Glück war das Ausmaß des Schadens begrenzt.
-der Ausschuss | n.m | committee, board, panel | Der Auschuss überlegt, ob eine Revision des Gesetzes notwendig ist.
-die Auswertung | n.f | evaluation, analysis | Die interne Auswertung kam zu dem Ergebnis, dass sich in der mittleren Leitungsebene eine hohe Zahl unterqualifizierter Mitarbeiter befinde.
-die Auszeichnung | n.f | award, distinction | Der Gewinner des Wettbewerbs bekam eine Auszeichnung.
-das Begehren | n.nt | desire, wish | Er bot siner Frau alles, was sie begehrte. Diktatoren fallen häufig durch ein starkes Begehren nach Macht auf.
-das Begreifen | n.nt | comprehension, understanding | Ich begriff endlich, was mein Lehrer meinte.<br>Sie kann komplexe Probleme begreifen und sie schnell lösen.
-der Belang | n.m | interest, concern | Die Nachrichten sind in der Augen der Journalisten interessant oder von persönlichem Belang.
-die Belastbarkeit | n.f | capacity, resilience | Die Belastbarkeit dieses Materials verändert sich je nach Temperatur.
-die Belegschaft | n.f | workforce, staff | Die Hälfte der Belegschaft des Unternehmens besteht aus Frauen.
-das Benehmen | n.nt | behavior, conduct | Das Benehmen meines Bruders ist manchmal komisch.
-die Berechtigung | n.f | right, entitlement, authorization | Berechtigung kann durch eine Systemadministratorin erteilt.
-der Berufskraftfahrer | n.m | trucker | Er ist ein Berufskraftfahrer und arbeitet bei einer Spedition.
-die Bestechung | n.f | bribery, corruption | Die neue Regierung versprach, Betrug und Bestechung zu bekämpfen.
-der Betrug | n.m | fraud, deception | Dem Mann wurden Erpressung und Betrug vorgeworfen.
-der Bursche | n.m | guy, lad | Der Sohn meiner Freundin ist ein witziger Bursche.
-der Empfänger | n.m | recipient, receiver | Dieses Jahr ist eine Schule der Empfänger unserer Spende.
-die Entfaltung | n.f | unfolding, development |
-der Entwurf | n.m | design, sketch, concept |
-die Ermittlung | n.f | determining, investigation |
-die Erpressung | n.f | blackmail, extortion |
-die Erstellung | n.f | preparation, creation |
-die Falte | n.f | fold, crease, wrinkle |
-das Fragezeichen | n.nt | question mark |
-die Gänsefüßchen | n.pl | quotation marks |
-das Gehäuse | n.nt | housing, casing, package |
-das Gesundheitswesen | n.nt | healthcare |
-der Gipfel | n.m | summit, peak |
-das Guthaben | n.nt | credit, balance |
-die Hemmung | n.f | inhibition, suspension | Es ist wichtig die Hemmung verlieren, um lockerer auf Deutsch zu sprechen.
-die Hupe | n.f | horn, klaxon | Der Autofahrer betätigte die Hupe, um den Radfahrer zu warnen.
-der Klempner | n.m | plumber |
-die Kluft | n.f | gap |
-der Knack | n.m | crack |
-der Knecht | n.m | servant |
-der Lackierer | n.m | painter |
-der Liebhaber | n.m | fan, lover |
-der Lieferschein | n.m | delivery note/order |
-der Mangel | n.m | defect |
-die Nachfolge | n.f | succession, emulation |
-die Nachlässigkeit | n.f | negligence, carelessness |
-der Nachschlag | n.m | lookup |
-die Neigung | n.f | tendency |
-der Orkan | n.m | hurricane |
-der Pfad | n.m | path |
-die Pfütze | n.f | puddle | Das Eis auf der Pfütze knackt, als ich darauf trat.
-die Puppe | n.f | doll<br>cocoon | Das Unternehmen brauchte Puppen für die Crashtests.<br>Aus der hässlichen Puppe wird in den nächsten Tagen ein wunderschöner Schmetterling.
-der Rahmenauftrag | n.m | blanket order, general | Bei einem Rahmenauftrag sind mehrere Liefertermine über einen Zeitraum erlaubt, um mit festen Preisen zu handeln, wenn 
-die Rückwaren | n.f | returned goods | Die Rückwaren-Logistik könnte noch optimiert werden.
-die Schachtel | n.f | box, package, carton | Es gibt Schachteln mit zehn oder zwanzig Stück.
-der Schal | n.m | scarf | Mein neuer Schal ist aus Seide.
-der Schädel | n.m | skull | Sicherheitshelme schützen den Schädel.
-die Schnittstelle | n.f | interface, port, intersection | Die neue Schnittstelle des Betriebssystems ist sehr intuitiv.
-die Seide | n.f | silk | Mein neuer Schal ist aus Seide.
-die Spedition | n.f | shipping company | Eine Spedition hat meinen Umzug von Berlin nach Hamburg durchgeführt.
-der Tagebau | n.m | surface mining | Tagebau und Mullverbrennung verursachen Luftverschmutzung.
-der Trost | n.m | comfort, consolation | Das weinende Kind fand Trost in den Armen seiner Mutter.
-die Überschrift | n.f | heading, title | Der Leser wird durch die Überschrift eingestimmt und gelenkt.
-das Ungeheuer | n.nt | monster, beast | Diese Tagebaumaschinene sind riesig! Sie sind wahre Ungeheuer.
-die Unstimmigkeit | n.f | discrepancy | Es gab große Unstimmigkeiten bei den Zeugenaussagen.
-die Verknüpfung | n.f | link, shortcut | Die Verknüpfung zu dieser Datei wurde gelöscht.
-die Verschlüsselung | n.f | encryption | Verschlüsselung trägt zum Datenschutz bei.
-der Verweis | n.m | reference | Das Buch ist voll mit Verweisen auf andere Dokumente.
-die Verwaltung | n.f | administration | Eine effiziente Verwaltung ist sehr wichtig für eine erfolgreiche Firma.
-das Verzeichnis | n.nt | list, directory, folder | Ich legte ein neues Verzeichnis auf dem Desktop an.
-die Vorbeugung | n.f | prevention | Hygiene ist wichtig für die Vorbeugung von Krankheiten.
-der Vorgesetzter | n.m | superior, supervisor | Mein Vorgesetzter war mit meiner Arbeit sehr zufrieden.
-der Vorsatz | n.m | intent, purpose<br>new year resolution | Fahrlässigkeit oder Vorsatz, das ist hier die Frage.<br>Er warf alle seine guten Vorsätze fürs neue Jahr über Bord.
-der Vorwurf | n.m | accusation, allegation | Wir wiesen die Vorwürfe als unbegründet zurück.
-der Wachmann | n.m | security guard | Zum Glück war der Wachmann noch da, um mir die Tür aufzumachen.
-die Währung | n.f | currency | Viele Länder in Europa haben die gleiche Währung.
-der Wert | n.m | value, figure, data, worth | Bei dem Feuer wurden Waren im Wert von mehreren Millionen Euro vernichtet.
-die Wucht | n.f | impact, force | Der Orkan hat dann mit voller Wucht getroffen.
-die Würde | n.f. | dignity, honor | Alle Angestellten behandeln einander mit Würde und Respekt.
-der Zweifel | n.m | doubt, question |
-der Zugriff | n.m | access |
-der Zustand | n.m | condition, state | Der Tisch ist alt, aber in gutem Zustand.
-die Zustellung | n.f | service, delivery |
+das Anführungszeichen | n.nt | quotation mark | Direkte Rede wird in Anführungszeichen gesetzt. |
+die Anlage | n.f | system, investment | Die Anlage arbeitet schon vollautomatisch. |
+die Anlaufstelle | n.f | contact point | Die erste Anlaufstelle für Besucher ist die Rezeption. |
+die Anmerkung | n.f | note, comment | Ich schrieb eine Anmerkung zu dem unbekannten Begriff. |
+Anschluss finden | v expr | to make friends/connections | Es kann schon schwierig sein, in einer neuen Stadt Anschluss zu finden. |
+der Antrag | n.m | application, request | Ich beziehe mich auf Ihr Schreiben bezüglich eines Antrages auf Mieterwechsel. |
+das Arbeitspensum | n.nt | workload | Ich kann mein Arbeitspensum leicht bewältigen. |
+der Aufprall | n.m | impact, collision, crash | Beim Aufprall entstands an dem Fiat Totalschaden, geschätzt rund 5000 Euro. |
+die Aufteilung | n.f | distribution, division | Unsere Abteilung ist für die Aufteilung der Ressourcen verantwortlich. |
+der Aufwand | n.m | expense, cost, effort | Das Unternehmen erhöhte seinen Aufwand für Forschung und Entwicklung. |
+die Aufzeichnung | n.f | record, recording, logging | Mit dieser Kamera sind sowohl Aufzeichnung als auch Wiedergabe möglich. |
+der Ausfall | n.m | failure, malfunction | Der Ausfall einer Maschine kann zum Stillstand der Produktion führen. |
+die Ausgangssperre | n.f | curfew | Die Demonstranten widersetzten sich der Ausgangssperre. |
+das Ausmaß | n.nt | extent, dimension | Glück war das Ausmaß des Schadens begrenzt. |
+der Ausschuss | n.m | committee, board, panel | Der Auschuss überlegt, ob eine Revision des Gesetzes notwendig ist. |
+die Auswertung | n.f | evaluation, analysis | Die interne Auswertung kam zu dem Ergebnis, dass sich in der mittleren Leitungsebene eine hohe Zahl unterqualifizierter Mitarbeiter befinde. |
+die Auszeichnung | n.f | award, distinction | Der Gewinner des Wettbewerbs bekam eine Auszeichnung. |
 
-abbilden | v | to display, to map, to depict | Der Arzt bildete ihr Röntgenbild auf dem Monitor ab.
-ablegen | v | to take (an exam) |
-ableiten | v | to derive, to deduce | Die korrekte Antwort kann aus den Informationen abgeleitet werden.
-absichern | v | to secure, to protect |
-absolvieren | v | to complete, to do, to finish | Sie absolvierte ihr Studium mit Auszeichnung.
-abwägen | v | to weigh, to balance, to evaluate | Wir sollten alle Optionen abwägen, bevor wir unsere Entscheidung treffen.
-anklemmen | v | to connect |
-anlegen | v | to create, to invest |
-auffallen | v | to stand out, to attract | Ihr neuer Haarschnitt fiel ihrem Ehemann sofort auf.
-auflösen | v | to dissolve, to disperse, to close | Wir müssen Grenzen auflösen, und mehr Raum für Freidenken schaffen!
-aufrufen | v | to call, to invoke |
-ausführen | v | to perform, to carry out, to execute | Die Installation wird automatisch ausgeführt.
-ausloten | v | to sound out, to sondar |
-ausmessen | v | to measure, to size |
-bedürfen | v | to require, to need |
-behalten | v | to keep, to maintain |
-beheben | v | to remedy, to solve |
-beibehalten | v | to maintain |
-beeinträchtigen | v | to affect, to impair, to compromise |
-benötigen | v | to need, to require |
-beschimpfen | v | to abuse, to insult | Der wütende Fan beschimpfte den Schiedsrichter.
-bestärken | v | to strengthen, to encourage |
-bestreuen | v | to sprinkle, to powder |
-betätigen | v | to press, to operate, to activate | Der Wachmann hat den Alarm betätigt.
-beteuern | v | to affirm, to reaffirm, to assert | Der Politiker beteuerte, er sei den Prinzipien der Demokratie verpflichtet.
-bewältigen | v | to cope, to overcome, to manage |
-bewirken | v | to cause, to bring about |
-bezeichnen | v | to call, to designate, to denote |
-bewahren | v | to maintain, to preserve, to keep |
-brummen | v | hum, buzz | Kannst du dieses Brummen nicht hören?
-brüllen | v | to roar, to shout |
-durchführen | v | bis Ende machen |
-einstellen | v | to set, to adjust, to cease, to stop |
-entfachen | v | to spark, to ignite |
-entfalten | v | to unfold, to display | Die Künstlering entfaltete ihr ganzes Potential.<br>Wenn der Schmetterling aus der Puppe kommt, entfalten sich seine Flügel.
-entlasten | v | to relieve, to disburden |
-entlarven | v | to debunk, to unmask, to expose | Der Ermittler entlarvte die Täter.
-entziehen | v | to withdraw |
-erfordern | v | to require, to call for, to involve |
-erörtern | v | to discuss, to debate | Ich erörtere gerne philosophische Fragen.
-erstatten | v | to reimburse, to refund |
-erwerben | v | to acquire, to gain |
-erzwingen | v | to enforce, to constrain |
-falten | v | to fold, to wrinkle, to crease, to dobrar | Ich faltete das Blatt Papier wie angegeben.
-festhalten | v | to hold, to record<br>to detain | Ich habe die Ideen aus dem Meeting in einem Notizbuch festgehalten.<br>Die Polizei hielt einen Verdächtigen fest.
-fordern | v | to demand, to request |
-fördern | v | to promote, to support |
-freigeben | v | to release |
-gähnen | v | to yawn | Der kleine Junge gähnt viel, er scheint müde zu sein.
-genehmigt | v | to approved, to authorized |
-gewährleisten | v | to ensure, to guarantee |
-gliedern | v | to divide, to structure, to order |
-hauchen | v | to breathe, to aspirate | Ein Hauch von Schnee hatte den Rasen über Nacht weiß gefärbt
-hervorheben | v | to highlight, to emphasize | Der Lehrer hob die wichtigsten Aspekte des Textes hervor.
-hinterlegen | v | to deposit, to lodge | Ich habe einen Zweitschlüssel bei meinem Freund hinterlegt.
-hüpfen | v | to hop, to leap, to bounce | Das Kind hüpfte über die Pfütze.
-kippen | v | to tilt, to tip | Eine große Welle kippte das Boot nach links.
-knacken | v | to crack, to break open | Die Polizei versucht, den Code zu knacken.
-knüpfen | v | to tie, to knot | Die Perser knüpfen in atemberaubender Zeit wunderschöne Teppiche.<br>An diesen Ort knüpfen sich für mich viele schöne Erinnerungen.
-leisten | v | to provide, to do, to perform, to achieve | Die Freiwilligen leisten tolle Arbeit.<br>Glückwunsch, du hast eine Menge geleistet!
-lenken | v | to direct, to control, to steer, to channel | Der Fahrer sah den Hund und lenkte zur anderen Seite.<br>Ich versuchte meine Gedanken auf das Thema zu lenken.
-mahnen | v | to remind, to urge | Der Lehrer mahnte seine Schüler, an die Zukunft zu denken.
-mitbekommen | v | to catch, to notice, to understand | Ich kenne den Mann, aber seinen Namen habe ich nicht mitbekommen.
-nachholen | v | to make up for sth, to catch up for sth | Ich habe diese ersten Themen verpasst, aber ich kann die später nachholen.
-nachvollziehen | v | to understand, to comprehend |
-platzen | v | to burst, to split, to pop | Seifenblasen platzen nach ein paar Sekunden.<br>Beim Aufprall platzen Wasserbomben meistens.
-pochen | v | to insist |
-schrumpfen | v | to shrink |
-schnappen | v | to snap, to catch, to grab |
-täuschen | v | to deceive, to fool, to cheat | Ich möchte dich nicht täuschen, also werde ich dir die Wahrheit sagen.
-trotzen | v | to defy, to resist | Diese Pflanzen trotzen der Kälte und können im Winter angebaut werden.
-umbiegen | v | to bend, to fold |
-umsetzen | v | to implement |
-umstellen | v | to adjust, to adapt, to surround |
-übertragen | v | to transfer, to transmit |
-unternehmen | v | to undertake, zusammen machen | Mein Freund und ich planen, was wir am Wochenende unternehmen wollen.
-verauslagen | v | to disburse | Ich habe dir den verauslagten Betrag gerade überwiesen.
-verdichten | v | to compact, to condense, to compress | Diese Maschine verdichtet das Material, indem sie Druck ausübt.
-verfassen | v | to write, to draft, to pen |
-verfluchen | v | to curse, to damn |
-vergeben | v | to award, to assign<br>to forgive|
-verlangen | v | to demand, to request, to claim |
-verleiten | v | to induce, to tempt, to entice | Meine Freundin verleitete mich, das Kleid zu kaufen.
-vernichten | v | to destroy, to obliterate | Der Sturm droht die Ernte zu vernichten.
-verrutschen | v | to slip, to shift, to displace |
-verschlingen | v | to devour | Dein Kuchen war so gut, dass ich alles verschlungen habe!
-verschlucken | v | to swallow, to absorb, to slur | Er verschluckt ganze Silben, wenn er schnell spricht.
-verspüren | v | to feel |
-verstreichen | v | to pass, to elapse |
-verwelken | v | to wither, to fade | Die Blumen verwelken in der Hitze.
-verwerfen | v | to reject, to discard |
-verwüsten | v | to devastate, to ravage |
-verzahnen | v | to interlock, to interlink |
-vollziehen | v | to carry out, to administer | Der Politiker vollzieht Beschlüsse aus der Kaffeerunde bei der Kanzlerin.
-vorliegen | v | to exist, to be there |
-vorwerfen | v | to accuse |
-wettmachen | v | to offset, to compensate |
-widmen | v | to pay, to dedicate |
-wiegen | v | to weigh, to scale<br>to rock, to sway | Der Spiegel wiegt 18kg.<br>Das hohe Gras wiegt sich im Wind.
-wittern | v | to scent, to sniff, to smell |
-zitieren | v | to quote | Der Lehrer zitierte aus dem Tagebuch des Autors.
-zuordnen | v | to assign sth to sb, to allocate |
-zurückweisen | v | to reject, to overrule, to refuse | Mein Vorschlag wurde zurückgewiesen.
-zusammensetzen | v | to compose, to assemble | Das Konzert setzte sich aus verschieden Auftritten zusammen.
-zuschlagen | v | to strike, to slam | Vor lauter Wut hat er seine Zimmertür zugeschlagen.
-zutreffen | v | to apply, to be true |
+das Begehren | n.nt | desire, wish | Er bot siner Frau alles, was sie begehrte. Diktatoren fallen häufig durch ein starkes Begehren nach Macht auf. |
+das Begreifen | n.nt | comprehension, understanding | Ich begriff endlich, was mein Lehrer meinte.<br>Sie kann komplexe Probleme begreifen und sie schnell lösen. |
+der Belang | n.m | interest, concern | Die Nachrichten sind in der Augen der Journalisten interessant oder von persönlichem Belang. |
+die Belastbarkeit | n.f | capacity, resilience | Die Belastbarkeit dieses Materials verändert sich je nach Temperatur. |
+die Belegschaft | n.f | workforce, staff | Die Hälfte der Belegschaft des Unternehmens besteht aus Frauen. |
+das Benehmen | n.nt | behavior, conduct | Das Benehmen meines Bruders ist manchmal komisch. |
+die Berechtigung | n.f | right, entitlement, authorization | Berechtigung kann durch eine Systemadministratorin erteilt. |
+der Berufskraftfahrer | n.m | trucker | Er ist ein Berufskraftfahrer und arbeitet bei einer Spedition. |
+die Bestechung | n.f | bribery, corruption | Die neue Regierung versprach, Betrug und Bestechung zu bekämpfen. |
+der Betrug | n.m | fraud, deception<br>fraud, deception, scam | Dem Mann wurden Erpressung und Betrug vorgeworfen.<br>Der Angeklagte wurde wegen Betruges vor Gericht gestellt |
+der Bursche | n.m | guy, lad | Der Sohn meiner Freundin ist ein witziger Bursche. |
 
-abgestanden | adj | stale, flat | Um abgestandene Luft loszuwerden, kann man ein Fenster öffnen.
-angewiesen | adj | instructed, dependent |
-ätzend | adj | acid, corrosive<br>lousy, awful | Sie trug Schutzhandschuhe, wenn sie mit ätzenden Säuren arbeitete.<br>Diesen ganzen Prozess find ich wirklich ätzend.
-aufgeregt | adj | excited, nervous, agitated |
-aufrichtig | adj | sincere, genuine, honest |
-aufwendig | adj | expensive, elaborate |
-ausreichend | adj | sufficient, adequate |
-beliebig | adj | arbitrary, random, optional |
-bereichernd | adj | rewarding |
-besonnen | adj | calm, prudent | Eine besonnene Person trifft keine übereilten Entscheidungen.
-beständig | adj | constant, resistant | Wein muss bei einer beständigen Temperatur gelagert werden.
-bestürzt | adj | schocked, appalled |
-buchstäblich | adj | literal | Die buchstäbliche Übersetzung eines Wortes ist nicht immer die beste.
-demütig | adj | humble |
-durchschaubar | adj | transparent |
-durchscheinend | adj | translucid |
-durchsichtig | adj | transparent |
-durchwachsen | adj | mittelmäßig, so-so | Mein Studium have ich mit durchwachsenem Erfolg abgeschlossen.
-eingeschränkt | adj | restricted, limited |
-eklig | adj | disgusting |
-ergeizig | adj | ambitious, competitive |
-erheblich | adj | considerable, substantial |
-erschöpft | adj | exhausted |
-fade | adj | bland, insipid | Das Essen schmeckte etwas fade, es war gar nicht schmackhaft.
-fahrlässig | adj | negligent, reckless, careless | Eine mangelhafte Planung kann fahrlässige Entscheidungen zur Folge haben.
-fehlerhaft | adj | incorrect, faulty |
-geschickt | adj | skillful, clever |
-gerecht | adj | just, fair | Ein guter Richter ist unparteiisch und gerecht.
-getrost | adj | confident, safe |
-gewidmet | adj | dedicated, devoted |
-glatt | adj | smooth, even, straight |
-hartnäckig | adj | stubborn, persistent | Hartnäckige Menschen geben nicht leift auf.
-herangezogen | adj | pulled up, cultivated |
-karg | adj | sparse, frugal | Die Wüste ist trocken mit karger Vegetation.
-kühn | adj | bold |
-lediglich | adj | only, solely |
-lückenlos | adj | complete, gapless |
-nächtlich | adj | nocturnal, nighttime | Ich habe Spaß am Tanzen und anderen nächtlichen Aktivitäten.
-nachträglich | adj | belated, subsequent |
-redselig | adj | talkative |
-schal | adj | stale, flat | Nach zwei Stunden in der Sonne was das Bier schal.
-schlank | adj | elegant, slim |
-schleppend | adj | slow, sluggish |
-stellenweise | adj | in parts |
-stur | adj | stubborn |
-träge | adj | slow, sluggish | Ich fühle mich zu träge, um aus dem Bett aufzustehen.
-umgehend | adj | immediately |
-umständlich | adj | cumbersome, laborious |
-uneins | adj | divided | Im Nachhaltigkeitsdebatten sind aber selbst die Experten uneins über die Verlässlichkeit ihrer Statistiken und Prognosen.
-ungeschickt | adj | clumsy, unhandy |
-unmittelbar | adj | direct, immediate |
-unverlässlich | adj | essential, indispensable, mandatory | Eine kompetente Verwendung der Sprache ist unverlässlich.
-unvollständig | adj | incomplete |
-verheerend | adj | devastating, disastrous |
-vermeintlich | adj | supposed, alleged, presumed |
-verschmerzbar | adj | bearable | Diese Unkompliziertheit macht das Fehlen eines manuellen Modus verschmerzbarer.
-versehentlich | adj | inadvertent, accidental | Er hat versehentlich die Hupe betätigt.<br>Ein versehentliches Löschen der Datei sollte nicht möglich sein.
-vorig | adj | previous | Bereits im vorigen Herbst hatte der Schriftsteller ein neues Buch veröffentlicht.
-vorübergehend | adj | temporary, momentary, passing | Wir brauchen eine dauerhafte Lösung, keine vorübergehende.
-wert | adj | worth, worth it, worthy, valued | Was glaubst du, ist dieser Ring wert?<br>Dieses Buch ist mir werter als alle anderen.<br>Der gute Rat ist mir 100 Euro wert.
-wortgewandt | adj | eloquent, articulate | Der wortgewandte Politiker wird oft als Redner eingeladen.
-wortkarg | adj | taciturn, silent | Der redselige kleine Junge ist heute ungewöhnlich wortkarg.
-wortwörtlich | adj | literal, word-for-word |
-zäh | adj | tough, tenacious | Der Boxer war ein zäher, hartnäckiger Bursche.
-zugänglich | adj | accessible, open, approachable |
-zugehörig | adj | belonging to, related |
-zumutbar | adj | reasonable, acceptable |
+der Empfänger | n.m | recipient, receiver | Dieses Jahr ist eine Schule der Empfänger unserer Spende. |
+die Entfaltung | n.f | unfolding, development | Die Entfaltung der drei Szenarien ist zunächst strukturiert durch einen Parameter auf der Eben der internationalen Beziehungen. |
+der Entwurf | n.m | design, sketch, concept | Sie zeichnet immer Entwürfe, bevor sie die Skulpturen modelliert. |
+die Ermittlung | n.f | determining, investigation | Die Polizei fand die Verbrecher nach gründlichen Ermittlungen. |
+die Erpressung | n.f | blackmail, extortion | Dem Mann wurde Erpressung und Betrug vorgeworfen. |
+die Erstellung | n.f | preparation, creation | Der Koch ist für die Erstellung neuer Rezepte zuständig. |
 
-andersrum | adv | the other way around |
-beziehungsweise | adv | rather/to be more precise |
-folgendermaßen | adv | as follows |
-gegebenenfalls | adv | if necessary, where |
-jedoch | adv | having said that, though |
-jeweils | adv | in each case, respectively |
-keineswegs | adv | by no means |
-ohnehin | adv | already, anyway |
-vorerst | adv | for the time being |
-weiterhin | adv | furthermore, also, still |
+die Falte | n.f | fold, crease, wrinkle | Jede Falte des Papierflugzeugs muss an der richtigen Stelle sein.<br>Er musste sein Hemd bügeln, weil es Falten hatte.<br>Cremes können Falten vorbeugen. |
+das Fragezeichen | n.nt | question mark | |
 
-im Nachhinein | adv expr | in retrospective | Im Nachhinein würde ich manche Dinge anders machen.
+die Gänsefüßchen | n.pl | quotation marks | |
+das Gehäuse | n.nt | housing, casing, package | |
+das Gesundheitswesen | n.nt | healthcare | Prävention ist ein wesentliches Element des Gesundheitswesens. |
+der Gipfel | n.m | summit, peak | Die Bergsteiger genossen die überwältigende Aussicht vom Gipfel. Zum Glück war er nicht mit Schnee bedeckt. |
+das Guthaben | n.nt | credit, balance | |
 
-Anschluss finden | v expr | to make friends/connections |
-sich auf etw [Akk] einstellen | v expr | prepare, adapt to sth | Die Landwirte stellten sich auf einen milden Sommer ein.
-sich mit etw befassen | v | sich mit etw. stark beschäftigen |
-sich einpendeln | v | even out | Es war eine große Anlage, aber sie wird sich mittelfristig einpendeln.
-sich herausstellen | v | turn out, prove | Sein Vorwurf hat sich als falsch herausgestellt.
-sich herumsprechen | v | get around, spread | Das ist ein Angebot, das sich herumsprechen und bei anderen Veranstaltern Schule machen sollte.
-auf etw [Akk] verweisen | v | refer/point to sth | Wir verweisen hierzu auf die Erläuterungen der entsprechenden Aktivposten.
-von etw ausgehen | v | assume | Die Deutsche gehen von einer zweiten Welle an.
-sich auf etw. [Akk] einigen | v expr | agree to, agree on | Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag.
-jdm. der Schädel brummen | v expr | starke Kopfschmerzen haben | mir brummt der Schädel.
-auf dem Teppich bleiben | v expr | nicht übertreiben | Ein bisschen auf dem Teppich bleiben sollte man bei dieser Frage schon und die Dinge gerecht beurteilen.
-jdm./etw. nicht abkönnen | v expr | jdn. ertragen, ausstehen | Ich kann die nicht ab.
-sich [Akk] mit jdm. anlegen | v | start a fight with sb. | Das ist doch kein Grund dich mit ihm anzulegen.
-keine Ahnung von Tuten und Blasen haben | v expr | völlig inkompetent sein | Du hast von Tuten und Blasen keine Ahnung.
-mit etw./jdm. am Hut haben | v expr | mit etw./jdm. zu tun haben | Ich habe nicht so viel mit ihm am Hut.
-sich [Akk] anbieten | v expr | it is useful/appropriate to | Es bietet sich an, diese Änderung vorzunehmen.
-auf das Konto gehen | v expr | account for | Auf ihr Konto gehen die meisten von Wildtieren verursachten Todesfälle.
-in die Hose gehen | v expr | be a complete flop | Ja, ohne diese Mühe kann es alle in die Hose gehen.
+die Hemmung | n.f | inhibition, suspension | Es ist wichtig die Hemmung verlieren, um lockerer auf Deutsch zu sprechen. |
+die Hupe | n.f | horn, klaxon | Der Autofahrer betätigte die Hupe, um den Radfahrer zu warnen. |
 
-bis auf [Akk] | prep | except for, apart from, up to | Das Feld war leer, bis auf eine einzelne Kuh.
-abgesehen von [Dat] | prep | apart from, except for | Abgesehen von den ersten zehn Minuten hat das Team sehr gut gespielt. 
-sofern | conj | if, provided that, as long as | Änderungen sind erlaubt, sofern sie nicht den Vertrag betreffen.
+der Klempner | n.m | plumber | |
+die Kluft | n.f | gap | |
+der Knack | n.m | crack | |
+der Knecht | n.m | servant | |
+
+der Lackierer | n.m | painter | |
+der Liebhaber | n.m | fan, lover | |
+der Lieferschein | n.m | delivery note/order | |
+
+der Mangel | n.m | defect | |
+
+die Nachfolge | n.f | succession, emulation | |
+die Nachlässigkeit | n.f | negligence, carelessness | |
+der Nachschlag | n.m | lookup | |
+die Neigung | n.f | tendency | |
+
+der Orkan | n.m | hurricane | |
+
+der Pfad | n.m | path | |
+die Pfütze | n.f | puddle | Das Eis auf der Pfütze knackt, als ich darauf trat. |
+die Puppe | n.f | doll<br>cocoon | Das Unternehmen brauchte Puppen für die Crashtests.<br>Aus der hässlichen Puppe wird in den nächsten Tagen ein wunderschöner Schmetterling. |
+
+der Rahmenauftrag | n.m | blanket order, general | Bei einem Rahmenauftrag sind mehrere Liefertermine über einen Zeitraum erlaubt, um mit festen Preisen zu handeln, wenn |
+die Rückwaren | n.f | returned goods | Die Rückwaren-Logistik könnte noch optimiert werden. |
+
+die Schachtel | n.f | box, package, carton | Es gibt Schachteln mit zehn oder zwanzig Stück. |
+der Schädel | n.m | skull | Sicherheitshelme schützen den Schädel. |
+der Schal | n.m | scarf | Mein neuer Schal ist aus Seide. |
+die Schnittstelle | n.f | interface, port, intersection | Die neue Schnittstelle des Betriebssystems ist sehr intuitiv. |
+die Seide | n.f | silk | Mein neuer Schal ist aus Seide. |
+die Spedition | n.f | shipping company | Eine Spedition hat meinen Umzug von Berlin nach Hamburg durchgeführt. |
+
+der Tagebau | n.m | surface mining | Tagebau und Mullverbrennung verursachen Luftverschmutzung. |
+der Trost | n.m | comfort, consolation | Das weinende Kind fand Trost in den Armen seiner Mutter. |
+
+die Überschrift | n.f | heading, title | Der Leser wird durch die Überschrift eingestimmt und gelenkt. |
+das Ungeheuer | n.nt | monster, beast | Diese Tagebaumaschinene sind riesig! Sie sind wahre Ungeheuer. |
+die Unstimmigkeit | n.f | discrepancy | Es gab große Unstimmigkeiten bei den Zeugenaussagen. |
+
+die Verknüpfung | n.f | link, shortcut | Die Verknüpfung zu dieser Datei wurde gelöscht. |
+die Verschlüsselung | n.f | encryption | Verschlüsselung trägt zum Datenschutz bei. |
+die Verwaltung | n.f | administration | Eine effiziente Verwaltung ist sehr wichtig für eine erfolgreiche Firma. |
+der Verweis | n.m | reference | Das Buch ist voll mit Verweisen auf andere Dokumente. |
+das Verzeichnis | n.nt | list, directory, folder | Ich legte ein neues Verzeichnis auf dem Desktop an. |
+die Vorbeugung | n.f | prevention | Hygiene ist wichtig für die Vorbeugung von Krankheiten. |
+der Vorgesetzter | n.m | superior, supervisor | Mein Vorgesetzter war mit meiner Arbeit sehr zufrieden. |
+der Vorsatz | n.m | intent, purpose<br>new year resolution | Fahrlässigkeit oder Vorsatz, das ist hier die Frage.<br>Er warf alle seine guten Vorsätze fürs neue Jahr über Bord. |
+der Vorwurf | n.m | accusation, allegation | Wir wiesen die Vorwürfe als unbegründet zurück. |
+
+der Wachmann | n.m | security guard | Zum Glück war der Wachmann noch da, um mir die Tür aufzumachen. |
+die Währung | n.f | currency | Viele Länder in Europa haben die gleiche Währung. |
+der Wert | n.m | value, figure, data, worth | Bei dem Feuer wurden Waren im Wert von mehreren Millionen Euro vernichtet. |
+die Wucht | n.f | impact, force | Der Orkan hat dann mit voller Wucht getroffen. |
+die Würde | n.f | dignity, honor | Alle Angestellten behandeln einander mit Würde und Respekt. |
+
+der Zugriff | n.m | access | |
+der Zustand | n.m | condition, state | Der Tisch ist alt, aber in gutem Zustand. |
+die Zustellung | n.f | service, delivery | |
+der Zweifel | n.m | doubt, question | |
+
+abbilden | v | to display, to map, to depict | Der Arzt bildete ihr Röntgenbild auf dem Monitor ab. |
+abgesehen von [dat] | prep | apart from, except for | Abgesehen von den ersten zehn Minuten hat das Team sehr gut gespielt. |
+abgestanden | adj | stale, flat | Um abgestandene Luft loszuwerden, kann man ein Fenster öffnen. |
+ablegen | v | to take (an exam) | |
+ableiten | v | to derive, to deduce | Die korrekte Antwort kann aus den Informationen abgeleitet werden. |
+absichern | v | to secure, to protect | |
+absolvieren | v | to complete, to do, to finish | Sie absolvierte ihr Studium mit Auszeichnung. |
+abwägen | v | to weigh, to balance, to evaluate | Wir sollten alle Optionen abwägen, bevor wir unsere Entscheidung treffen. |
+andersrum | adv | the other way around | |
+angewiesen | adj | instructed, dependent | |
+anklemmen | v | to connect | |
+anlegen | v | to create, to invest | |
+ätzend | adj | acid, corrosive<br>lousy, awful | Sie trug Schutzhandschuhe, wenn sie mit ätzenden Säuren arbeitete.<br>Diesen ganzen Prozess find ich wirklich ätzend. |
+auf etw [akk] verweisen | v | refer/point to sth | Wir verweisen hierzu auf die Erläuterungen der entsprechenden Aktivposten. |
+auf dem Teppich bleiben | v expr | nicht übertreiben | Ein bisschen auf dem Teppich bleiben sollte man bei dieser Frage schon und die Dinge gerecht beurteilen. |
+auf das Konto gehen | v expr | account for | Auf ihr Konto gehen die meisten von Wildtieren verursachten Todesfälle. |
+auffallen | v | to stand out, to attract | Ihr neuer Haarschnitt fiel ihrem Ehemann sofort auf. |
+aufgeregt | adj | excited, nervous, agitated | |
+auflösen | v | to dissolve, to disperse, to close | Wir müssen Grenzen auflösen, und mehr Raum für Freidenken schaffen! |
+aufrichtig | adj | sincere, genuine, honest | |
+aufrufen | v | to call, to invoke | |
+aufwendig | adj | expensive, elaborate | |
+ausführen | v | to perform, to carry out, to execute | Die Installation wird automatisch ausgeführt. |
+ausloten | v | to sound out, to sondar | |
+ausmessen | v | to measure, to size | |
+ausreichend | adj | sufficient, adequate | |
+
+bedürfen | v | to require, to need | |
+beeinträchtigen | v | to affect, to impair, to compromise | |
+behalten | v | to keep, to maintain | |
+beheben | v | to remedy, to solve | |
+beibehalten | v | to maintain | |
+beliebig | adj | arbitrary, random, optional | |
+benötigen | v | to need, to require | |
+bereichernd | adj | rewarding | |
+beschimpfen | v | to abuse, to insult | Der wütende Fan beschimpfte den Schiedsrichter. |
+besonnen | adj | calm, prudent | Eine besonnene Person trifft keine übereilten Entscheidungen. |
+beständig | adj | constant, resistant | Wein muss bei einer beständigen Temperatur gelagert werden. |
+bestärken | v | to strengthen, to encourage | |
+bestreuen | v | to sprinkle, to powder | |
+bestürzt | adj | schocked, appalled | |
+betätigen | v | to press, to operate, to activate | Der Wachmann hat den Alarm betätigt. |
+beteuern | v | to affirm, to reaffirm, to assert | Der Politiker beteuerte, er sei den Prinzipien der Demokratie verpflichtet. |
+bewahren | v | to maintain, to preserve, to keep | |
+bewältigen | v | to cope, to overcome, to manage | |
+bewirken | v | to cause, to bring about | |
+bezeichnen | v | to call, to designate, to denote | |
+beziehungsweise | adv | rather/to be more precise | |
+bis auf [akk] | prep | except for, apart from, up to | Das Feld war leer, bis auf eine einzelne Kuh. |
+brüllen | v | to roar, to shout | |
+brummen | v | hum, buzz | Kannst du dieses Brummen nicht hören? |
+buchstäblich | adj | literal | Die buchstäbliche Übersetzung eines Wortes ist nicht immer die beste. |
+
+demütig | adj | humble | |
+durchführen | v | bis Ende machen | |
+durchschaubar | adj | transparent | |
+durchscheinend | adj | translucid | |
+durchsichtig | adj | transparent | |
+durchwachsen | adj | mittelmäßig, so-so | Mein Studium have ich mit durchwachsenem Erfolg abgeschlossen. |
+
+eingeschränkt | adj | restricted, limited | |
+einstellen | v | to set, to adjust, to cease, to stop | |
+eklig | adj | disgusting | |
+entfachen | v | to spark, to ignite | |
+entfalten | v | to unfold, to display | Die Künstlering entfaltete ihr ganzes Potential.<br>Wenn der Schmetterling aus der Puppe kommt, entfalten sich seine Flügel. |
+entlarven | v | to debunk, to unmask, to expose | Der Ermittler entlarvte die Täter. |
+entlasten | v | to relieve, to disburden | |
+entziehen | v | to withdraw | |
+erfordern | v | to require, to call for, to involve | |
+ergeizig | adj | ambitious, competitive | |
+erheblich | adj | considerable, substantial | |
+erörtern | v | to discuss, to debate | Ich erörtere gerne philosophische Fragen. |
+erschöpft | adj | exhausted | |
+erstatten | v | to reimburse, to refund | |
+erwerben | v | to acquire, to gain | |
+erzwingen | v | to enforce, to constrain | |
+
+fade | adj | bland, insipid | Das Essen schmeckte etwas fade, es war gar nicht schmackhaft. |
+fahrlässig | adj | negligent, reckless, careless | Eine mangelhafte Planung kann fahrlässige Entscheidungen zur Folge haben. |
+falten | v | to fold, to wrinkle, to crease, to dobrar | Ich faltete das Blatt Papier wie angegeben. |
+fehlerhaft | adj | incorrect, faulty | |
+festhalten | v | to hold, to record<br>to detain | Ich habe die Ideen aus dem Meeting in einem Notizbuch festgehalten.<br>Die Polizei hielt einen Verdächtigen fest. |
+folgendermaßen | adv | as follows | |
+fordern | v | to demand, to request | |
+fördern | v | to promote, to support | |
+freigeben | v | to release | |
+
+gähnen | v | to yawn | Der kleine Junge gähnt viel, er scheint müde zu sein. |
+gegebenenfalls | adv | if necessary, where | |
+genehmigt | v | to approved, to authorized | |
+gerecht | adj | just, fair | Ein guter Richter ist unparteiisch und gerecht. |
+geschickt | adj | skillful, clever | |
+getrost | adj | confident, safe | |
+gewährleisten | v | to ensure, to guarantee | |
+gewidmet | adj | dedicated, devoted | |
+glatt | adj | smooth, even, straight | |
+gliedern | v | to divide, to structure, to order | |
+
+hartnäckig | adj | stubborn, persistent | Hartnäckige Menschen geben nicht leift auf. |
+hauchen | v | to breathe, to aspirate | Ein Hauch von Schnee hatte den Rasen über Nacht weiß gefärbt |
+herangezogen | adj | pulled up, cultivated | |
+hervorheben | v | to highlight, to emphasize | Der Lehrer hob die wichtigsten Aspekte des Textes hervor. |
+hinterlegen | v | to deposit, to lodge | Ich habe einen Zweitschlüssel bei meinem Freund hinterlegt. |
+hüpfen | v | to hop, to leap, to bounce | Das Kind hüpfte über die Pfütze. |
+
+im Nachhinein | expr adv | in retrospective | Im Nachhinein würde ich manche Dinge anders machen. |
+in die Hose gehen | v expr | be a complete flop | Ja, ohne diese Mühe kann es alle in die Hose gehen. |
+
+jdm. der Schädel brummen | v expr | starke Kopfschmerzen haben | mir brummt der Schädel. |
+jdm./etw. nicht abkönnen | v expr | jdn. ertragen, ausstehen | Ich kann die nicht ab. |
+jedoch | adv | having said that, though | |
+jeweils | adv | in each case, respectively | |
+
+karg | adj | sparse, frugal | Die Wüste ist trocken mit karger Vegetation. |
+keine Ahnung von Tuten und Blasen haben | v expr | völlig inkompetent sein | Du hast von Tuten und Blasen keine Ahnung. |
+keineswegs | adv | by no means | |
+kippen | v | to tilt, to tip | Eine große Welle kippte das Boot nach links. |
+knacken | v | to crack, to break open | Die Polizei versucht, den Code zu knacken. |
+knüpfen | v | to tie, to knot | Die Perser knüpfen in atemberaubender Zeit wunderschöne Teppiche.<br>An diesen Ort knüpfen sich für mich viele schöne Erinnerungen. |
+kühn | adj | bold | |
+
+lediglich | adj | only, solely | |
+leisten | v | to provide, to do, to perform, to achieve | Die Freiwilligen leisten tolle Arbeit.<br>Glückwunsch, du hast eine Menge geleistet! |
+lenken | v | to direct, to control, to steer, to channel | Der Fahrer sah den Hund und lenkte zur anderen Seite.<br>Ich versuchte meine Gedanken auf das Thema zu lenken. |
+lückenlos | adj | complete, gapless | |
+
+mahnen | v | to remind, to urge | Der Lehrer mahnte seine Schüler, an die Zukunft zu denken. |
+mit etw./jdm. am Hut haben | v expr | mit etw./jdm. zu tun haben | Ich habe nicht so viel mit ihm am Hut. |
+mitbekommen | v | to catch, to notice, to understand | Ich kenne den Mann, aber seinen Namen habe ich nicht mitbekommen. |
+
+nachholen | v | to make up for sth, to catch up for sth | Ich habe diese ersten Themen verpasst, aber ich kann die später nachholen. |
+nächtlich | adj | nocturnal, nighttime | Ich habe Spaß am Tanzen und anderen nächtlichen Aktivitäten. |
+nachträglich | adj | belated, subsequent | |
+nachvollziehen | v | to understand, to comprehend | |
+
+ohnehin | adv | already, anyway | |
+
+platzen | v | to burst, to split, to pop | Seifenblasen platzen nach ein paar Sekunden.<br>Beim Aufprall platzen Wasserbomben meistens. |
+pochen | v | to insist | |
+
+redselig | adj | talkative | |
+
+schal | adj | stale, flat | Nach zwei Stunden in der Sonne was das Bier schal. |
+schlank | adj | elegant, slim | |
+schleppend | adj | slow, sluggish | Der alte Zug fährt im schleppenden Tempo. |
+schmieden | v | to forge, to devise | Wir schmiedeten einen Plan und dann setzten wir ihn um. |
+schnappen | v | to snap, to catch, to grab | |
+schrumpfen | v | to shrink | |
+sich auf etw [Akk] einstellen | v expr | prepare, adapt to sth | Die Landwirte stellten sich auf einen milden Sommer ein. |
+sich auf etw. [Akk] einigen | v expr | agree to, agree on | Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag. |
+sich einpendeln | v | even out | Es war eine große Anlage, aber sie wird sich mittelfristig einpendeln. |
+sich [Akk] anbieten | v expr | it is useful/appropriate to | Es bietet sich an, diese Änderung vorzunehmen. |
+sich [akk] mit jdm. anlegen | v | start a fight with sb. | Das ist doch kein Grund dich mit ihm anzulegen. |
+sich mit etw befassen | v | sich mit etw. stark beschäftigen | |
+sich herumsprechen | v | get around, spread | Das ist ein Angebot, das sich herumsprechen und bei anderen Veranstaltern Schule machen sollte. |
+sich herausstellen | v | turn out, prove | Sein Vorwurf hat sich als falsch herausgestellt. |
+sofern | conj | if, provided that, as long as | Änderungen sind erlaubt, sofern sie nicht den Vertrag betreffen. |
+stellenweise | adj | in parts, here and there | |
+stur | adj | stubborn | Das sture Kind weigerte sich, sein Gemüse zu essen. |
+
+täuschen | v | to deceive, to fool, to cheat | Ich möchte dich nicht täuschen, also werde ich dir die Wahrheit sagen. |
+träge | adj | slow, sluggish | Ich fühle mich zu träge, um aus dem Bett aufzustehen. |
+trotzen | v | to defy, to resist | Diese Pflanzen trotzen der Kälte und können im Winter angebaut werden. |
+
+übertragen | v | to transfer, to transmit | Diese Daten werden elektronisch übertragen. |
+überwältigend | adj | overwhelming, stunning | Der Umfang der Aufgaben war ziemlich überwältigend.<br>Der Aussichtspunkt bietet einen überwältigenden Ausblick. |
+umbiegen | v | to bend, to fold | |
+umgehend | adj | immediately | |
+umsetzen | v | to implement, put into practice<br>transform | Diese Reformen müssen so rasch wie möglich umgesetzt werden.<br>Pflanzen setzen Sonnenenergie in Zucker um. |
+umständlich | adj | cumbersome, laborious | Es ist ein ziemlich umständlicher Prozess, ein Visum zu erhalten. Der Prozess ist lang und kompliziert. |
+umstellen | v | to adjust, to adapt, to surround | |
+uneins | adj | divided | Im Nachhaltigkeitsdebatten sind aber selbst die Experten uneins über die Verlässlichkeit ihrer Statistiken und Prognosen. |
+ungeschickt | adj | clumsy, unhandy | |
+unmittelbar | adj | direct, immediate | |
+unternehmen | v | to undertake, zusammen machen | Mein Freund und ich planen, was wir am Wochenende unternehmen wollen. |
+unverlässlich | adj | essential, indispensable, mandatory | Eine kompetente Verwendung der Sprache ist unverlässlich. |
+unvollständig | adj | incomplete | |
+
+verauslagen | v | to disburse | Ich habe dir den verauslagten Betrag gerade überwiesen. |
+verdichten | v | to compact, to condense, to compress | Diese Maschine verdichtet das Material, indem sie Druck ausübt. |
+verfassen | v | to write, to draft, to pen | |
+verfluchen | v | to curse, to damn | |
+vergeben | v | to award, to assign<br>to forgive | |
+verheerend | adj | devastating, disastrous | |
+verlangen | v | to demand, to request, to claim | |
+verleiten | v | to induce, to tempt, to entice | Meine Freundin verleitete mich, das Kleid zu kaufen. |
+vermeintlich | adj | supposed, alleged, presumed | |
+vernichten | v | to destroy, to obliterate | Der Sturm droht die Ernte zu vernichten. |
+verrutschen | v | to slip, to shift, to displace | |
+verschlingen | v | to devour | Dein Kuchen war so gut, dass ich alles verschlungen habe! |
+verschlucken | v | to swallow, to absorb, to slur | Er verschluckt ganze Silben, wenn er schnell spricht. |
+verschmerzbar | adj | bearable | Diese Unkompliziertheit macht das Fehlen eines manuellen Modus verschmerzbarer. |
+versehentlich | adj | inadvertent, accidental | Er hat versehentlich die Hupe betätigt.<br>Ein versehentliches Löschen der Datei sollte nicht möglich sein. |
+verspüren | v | to feel | |
+verstreichen | v | to pass, to elapse | |
+verwelken | v | to wither, to fade | Die Blumen verwelken in der Hitze. |
+verwerfen | v | to reject, to discard | |
+verwüsten | v | to devastate, to ravage | |
+verzahnen | v | to interlock, to interlink | |
+vollziehen | v | to carry out, to administer | Der Politiker vollzieht Beschlüsse aus der Kaffeerunde bei der Kanzlerin. |
+von etw ausgehen | v | assume | Die Deutsche gehen von einer zweiten Welle an. |
+vorerst | adv | for the time being | |
+vorig | adj | previous | Bereits im vorigen Herbst hatte der Schriftsteller ein neues Buch veröffentlicht. |
+vorliegen | v | to exist, to be there | |
+vorübergehend | adj | temporary, momentary, passing | Wir brauchen eine dauerhafte Lösung, keine vorübergehende. |
+vorwerfen | v | to accuse | |
+
+weiterhin | adv | furthermore, also, still | |
+wert | adj | worth, worth it, worthy, valued | Was glaubst du, ist dieser Ring wert?<br>Dieses Buch ist mir werter als alle anderen.<br>Der gute Rat ist mir 100 Euro wert. |
+wettmachen | v | to offset, to compensate | |
+widmen | v | to pay, to dedicate | |
+wiegen | v | to weigh, to scale<br>to rock, to sway | Der Spiegel wiegt 18kg.<br>Das hohe Gras wiegt sich im Wind. |
+wittern | v | to scent, to sniff, to smell | |
+wortgewandt | adj | eloquent, articulate | Der wortgewandte Politiker wird oft als Redner eingeladen. |
+wortkarg | adj | taciturn, silent | Der redselige kleine Junge ist heute ungewöhnlich wortkarg. |
+wortwörtlich | adj | literal, word-for-word | |
+
+zäh | adj | tough, tenacious | Der Boxer war ein zäher, hartnäckiger Bursche. |
+zitieren | v | to quote | Der Lehrer zitierte aus dem Tagebuch des Autors. |
+zugänglich | adj | accessible, open, approachable | |
+zugehörig | adj | belonging to, related | |
+zumutbar | adj | reasonable, acceptable | |
+zuordnen | v | to assign sth to sb, to allocate | |
+zurückweisen | v | to reject, to overrule, to refuse | Mein Vorschlag wurde zurückgewiesen. |
+zusammensetzen | v | to compose, to assemble | Das Konzert setzte sich aus verschieden Auftritten zusammen. |
+zuschlagen | v | to strike, to slam | Vor lauter Wut hat er seine Zimmertür zugeschlagen. |
+zutreffen | v | to apply, to be true | |

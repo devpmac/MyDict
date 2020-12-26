@@ -26,33 +26,33 @@ class Word:
         self.word = self.standardize_word(word)
 
         self.meanings = meanings
-        self.examples = examples
 
-        self.other = other
+        self.examples = examples if examples is not None else []
+        self.other = other if other is not None else []
 
     def __repr__(self):
         """"""
         representation = f'Word(word="{self.word}", tags={self.tags}, meanings="{self.meanings}"'
-        if self.examples is not None:
+        if self.examples:
             representation += f', examples="{self.examples}"'
-        if self.other is not None:
+        if self.other:
             representation += f', other="{self.other}"'
         representation += ")"
         return representation
 
     def __str__(self):
         printable_string = f"{self.word} | {self.format_tags()} | {self.format_meanings()} |"
-        if self.examples is not None:
+        if self.examples:
             printable_string += f" {self.format_examples()} |"
         else:
             printable_string += f" |"
-        if self.other is not None:
+        if self.other:
             printable_string += f" {self.other}"
         return printable_string + "\n"
 
     def __lt__(self, other):
         if isinstance(other, Word):
-            return self.get_initial() < other.get_initial()
+            return self.get_sortable_word() < other.get_sortable_word()
         return NotImplemented
 
     def __eq__(self, other):
@@ -67,7 +67,7 @@ class Word:
     def process_tags(cls, tags: str):
         final_tags = set()
         for tag in tags.split(" "):
-            if tag is not None:
+            if tag:
                 final_tags.update(tag.split("."))
         return list(final_tags)
 
@@ -152,8 +152,7 @@ class Word:
         for new in new_value.split(self.LINE_SEP):
             new = new.strip()
             if new and new not in getattr(self, attr):
-                new_val = getattr(self, attr).append(new)
-                setattr(self, attr, new_val)
+                getattr(self, attr).append(new)
 
     def add_meaning(self, new_meaning: str):
         self.append_to_attr("meanings", new_meaning)
@@ -167,17 +166,24 @@ class Word:
     def merge(self, other):
         if self == other:
             for attr in {"meanings", "examples", "other"}:
-                self.append_to_attr(attr, getattr(other, attr))
+                for value in getattr(other, attr):
+                    if value:
+                        self.append_to_attr(attr, value)
 
     # Other
-    def get_initial(self):
+    def get_sortable_word(self):
         word = utils.replace_odd_characters(self.word)
         split_word = word.split(" ")
         initial = None
-        for part in split_word:
+        for i, part in enumerate(split_word):
             part = part.strip()
             if part.lower() not in self.ARTICLES and part[0].isalpha():
                 initial = part[0]
-                return initial
+                break
         if not initial:
             raise WordError(f"Unable to determine the initial for '{self.word}'.")
+        else:
+            return " ".join(split_word[i])
+
+    def get_initial(self):
+        return self.get_sortable_word()[0]
