@@ -1,0 +1,415 @@
+das Fragezeichen | n.nt | question mark | |
+
+die Gänsefüßchen | n.pl | quotation marks | |
+
+das Gehäuse | n.nt | housing, casing, package | |
+
+das Guthaben | n.nt | credit, balance | |
+
+der Klempner | n.m | plumber | |
+
+die Kluft | n.f | gap | |
+
+der Knack | n.m | crack | |
+
+der Knecht | n.m | servant | |
+
+der Lackierer | n.m | painter | |
+
+der Liebhaber | n.m | fan, lover | |
+
+der Lieferschein | n.m | delivery note/order | |
+
+der Mangel | n.m | defect | |
+
+die Nachfolge | n.f | succession, emulation | |
+
+die Nachlässigkeit | n.f | negligence, carelessness | |
+
+der Nachschlag | n.m | lookup | |
+
+die Neigung | n.f | tendency | |
+
+der Orkan | n.m | hurricane | |
+
+der Pfad | n.m | path | |
+
+der Zugriff | n.m | access | |
+
+die Zustellung | n.f | service, delivery | |
+
+der Zweifel | n.m | doubt, question | |
+
+ablegen | v | to take (an exam) | |
+
+absichern | v | to secure, to protect | |
+
+andersrum | adv | the other way around | |
+
+angewiesen | adj | instructed, dependent | |
+
+anklemmen | v | to connect | |
+
+anlegen | v | to create, to invest | |
+
+aufgeregt | adj | excited, nervous, agitated | |
+
+aufrichtig | adj | sincere, genuine, honest | |
+
+aufrufen | v | to call, to invoke | |
+
+aufwendig | adj | expensive, elaborate | |
+
+ausloten | v | to sound out, to sondar | |
+
+ausmessen | v | to measure, to size | |
+
+ausreichend | adj | sufficient, adequate | |
+
+bedürfen | v | to require, to need | |
+
+beeinträchtigen | v | to affect, to impair, to compromise | |
+
+behalten | v | to keep, to maintain | |
+
+beheben | v | to remedy, to solve | |
+
+beibehalten | v | to maintain | |
+
+beliebig | adj | arbitrary, random, optional | |
+
+benötigen | v | to need, to require | |
+
+bereichernd | adj | rewarding | |
+
+bestärken | v | to strengthen, to encourage | |
+
+bestreuen | v | to sprinkle, to powder | |
+
+bestürzt | adj | schocked, appalled | |
+
+bewahren | v | to maintain, to preserve, to keep | |
+
+bewältigen | v | to cope, to overcome, to manage | |
+
+bewirken | v | to cause, to bring about | |
+
+bezeichnen | v | to call, to designate, to denote | |
+
+beziehungsweise | adv | rather/to be more precise | |
+
+brüllen | v | to roar, to shout | |
+
+demütig | adj | humble | |
+
+durchführen | v | bis Ende machen | |
+
+durchschaubar | adj | transparent | |
+
+durchscheinend | adj | translucid | |
+
+durchsichtig | adj | transparent | |
+
+eingeschränkt | adj | restricted, limited | |
+
+einstellen | v | to set, to adjust, to cease, to stop | |
+
+eklig | adj | disgusting | |
+
+entfachen | v | to spark, to ignite | |
+
+entlasten | v | to relieve, to disburden | |
+
+entziehen | v | to withdraw | |
+
+erfordern | v | to require, to call for, to involve | |
+
+ergeizig | adj | ambitious, competitive | |
+
+erheblich | adj | considerable, substantial | |
+
+erschöpft | adj | exhausted | |
+
+erstatten | v | to reimburse, to refund | |
+
+erwerben | v | to acquire, to gain | |
+
+erzwingen | v | to enforce, to constrain | |
+
+fehlerhaft | adj | incorrect, faulty | |
+
+folgendermaßen | adv | as follows | |
+
+fordern | v | to demand, to request | |
+
+fördern | v | to promote, to support | |
+
+freigeben | v | to release | |
+
+gegebenenfalls | adv | if necessary, where | |
+
+genehmigt | v | to approved, to authorized | |
+
+geschickt | adj | skillful, clever | |
+
+getrost | adj | confident, safe | |
+
+gewährleisten | v | to ensure, to guarantee | |
+
+gewidmet | adj | dedicated, devoted | |
+
+glatt | adj | smooth, even, straight | |
+
+gliedern | v | to divide, to structure, to order | |
+
+herangezogen | adj | pulled up, cultivated | |
+
+jedoch | adv | having said that, though | |
+
+jeweils | adv | in each case, respectively | |
+
+keineswegs | adv | by no means | |
+
+kühn | adj | bold | |
+
+lediglich | adj | only, solely | |
+
+lückenlos | adj | complete, gapless | |
+
+nachträglich | adj | belated, subsequent | |
+
+nachvollziehen | v | to understand, to comprehend | |
+
+ohnehin | adv | already, anyway | |
+
+pochen | v | to insist | |
+
+redselig | adj | talkative | |
+
+schlank | adj | elegant, slim | |
+
+schnappen | v | to snap, to catch, to grab | |
+
+schrumpfen | v | to shrink | |
+
+sich mit etw befassen | v | sich mit etw. stark beschäftigen | |
+
+stellenweise | adj | in parts, here and there | |
+
+umbiegen | v | to bend, to fold | |
+
+umgehend | adj | immediately | |
+
+umstellen | v | to adjust, to adapt, to surround | |
+
+ungeschickt | adj | clumsy, unhandy | |
+
+unmittelbar | adj | direct, immediate | |
+
+unvollständig | adj | incomplete | |
+
+verfassen | v | to write, to draft, to pen | |
+
+verfluchen | v | to curse, to damn | |
+
+vergeben | v | to award, to assign<br>to forgive | |
+
+verheerend | adj | devastating, disastrous | |
+
+verlangen | v | to demand, to request, to claim | |
+
+vermeintlich | adj | supposed, alleged, presumed | |
+
+verrutschen | v | to slip, to shift, to displace | |
+
+verspüren | v | to feel | |
+
+verstreichen | v | to pass, to elapse | |
+
+verwerfen | v | to reject, to discard | |
+
+verwüsten | v | to devastate, to ravage | |
+
+verzahnen | v | to interlock, to interlink | |
+
+vorerst | adv | for the time being | |
+
+vorliegen | v | to exist, to be there | |
+
+vorwerfen | v | to accuse | |
+
+weiterhin | adv | furthermore, also, still | |
+
+wettmachen | v | to offset, to compensate | |
+
+widmen | v | to pay, to dedicate | |
+
+wittern | v | to scent, to sniff, to smell | |
+
+wortwörtlich | adj | literal, word-for-word | |
+
+zugänglich | adj | accessible, open, approachable | |
+
+zugehörig | adj | belonging to, related | |
+
+zumutbar | adj | reasonable, acceptable | |
+
+zuordnen | v | to assign sth to sb, to allocate | |
+
+zutreffen | v | to apply, to be true | |
+
+
+sich aus etw zusammensetzen
+
+ich bin auf mich angewiesen.
+
+abgedeckt
+
+einfrieren
+
+darauf legen
+
+abweichen - different, divergent - Mein Chef mag keine abweichenden Meinungen.
+
+ausschweifendem
+
+aufarbeitung
+
+anständig
+
+Lohnentwicklung
+
+vorantreiben
+
+fordern
+
+konsteniert
+
+dicht machen
+
+ausweiten
+
+das Wetter umschläht demnächst
+
+der Spagat
+
+funktionstüchtig
+
+die ist in schewerem Fallwasser
+
+vorwiegend
+
+Bemühungen
+
+stockend
+
+Anerkennungsleistung
+
+gewährleisten
+
+beziehen
+
+umfangreich
+
+ausstellen
+
+verzögern
+
+anstossen
+
+uberlagern
+
+synodal
+
+vorliegen
+
+die Querung
+
+aufspielen
+
+behaupten
+
+verwirklichen
+
+abhacken
+
+wackeln
+
+der Ausfall
+
+ersichtlicht
+
+empfindlich
+
+gequellt
+
+aufklappen
+
+durchkämmen
+
+erfassbar
+
+auslegbar
+
+die Würde
+
+grübeln
+
+erörten
+
+unschlüssig
+
+grob
+
+zerbrechlich
+
+umrechnen
+
+beseitigen - eliminate, remove
+
+
+beschaltung
+
+zusammenbasteln
+
+Abwägung
+Entbehrung
+gerückt
+
+fürstlich
+einlegen
+abweisen
+Der Kutscher
+Die Wirtin
+vergönnen
+Getier
+unlängst
+sich zutragen
+zerren
+unterbreiten
+auf etw. eingehen
+
+Umschlagplatz
+vororten
+einflussreich
+vermeintlich
+geschluckt
+Mithaltung
+
+
+
+zuschreiben
+lindern
+Trab
+Verzehr
+
+begehrt
+Verzehr
+ungenießbar
+verdorben
+übertünchen
+rau
+
+vertuschen
+reiben
+annähernd
