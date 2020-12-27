@@ -14,10 +14,10 @@ class WordError(Exception):
 
 class Word:
     WORD_TAGS = {"adj", "adv", "conj", "expr", "n", "pron", "prep", "f", "m", "nt", "pl", "v"}
-    WORD_KEYS = ("word", "tags", "meanings", "examples", "other")
+    WORD_KEYS = ("word", "meanings", "examples", "other", "tags")
     LINE_SEP = "<br>"
 
-    def __init__(self, language: str, word: str, tags: List[str], meanings: str, examples: str = None, other: str = None):
+    def __init__(self, language: str, word: str, tags: List[str], meanings: str, examples: str = None, other: str = None, sep: str = None):
         self.language = self.validate_language(language)
         self.ARTICLES = ARTICLES[self.language]
 
@@ -30,6 +30,8 @@ class Word:
         self.examples = examples if examples is not None else []
         self.other = other if other is not None else []
 
+        self.sep = sep if sep is not None else "\t"
+
     def __repr__(self):
         """"""
         representation = f'Word(word="{self.word}", tags={self.tags}, meanings="{self.meanings}"'
@@ -41,13 +43,16 @@ class Word:
         return representation
 
     def __str__(self):
-        printable_string = f"{self.word} | {self.format_tags()} | {self.format_meanings()} |"
+        printable_string = f"{self.word} {self.sep} {self.format_meanings()} {self.sep}"
         if self.examples:
-            printable_string += f" {self.format_examples()} |"
+            printable_string += f" {self.format_examples()} {self.sep}"
         else:
-            printable_string += f" |"
+            printable_string += f" {self.sep}"
         if self.other:
-            printable_string += f" {self.other}"
+            printable_string += f" {self.other} {self.sep}"
+        else:
+            printable_string += f" {self.sep}"
+        printable_string += f" {self.format_tags()}"
         return printable_string + "\n"
 
     def __lt__(self, other):
@@ -72,16 +77,21 @@ class Word:
         return list(final_tags)
 
     @classmethod
-    def from_line(cls, language: str, line: str, sep: str = "|") -> TypeWord:
+    def from_line(cls, language: str, line: str, sep: str = "\t") -> TypeWord:
         new_entry = {key: None for key in cls.WORD_KEYS}
         new_entry["language"] = language
+        new_entry["sep"] = sep
 
-        word, tags, *remaining_values = line.split(sep)
+        split_line = line.split(sep)
+        assert len(split_line) == len(cls.WORD_KEYS), ("Found unexpected number"
+            f" of values using sep='{sep}' to parse following line:\n{line}")
+
+        word, *remaining_values, tags = split_line
 
         new_entry["word"] = word.strip()
-        new_entry["tags"] = cls.process_tags(tags)
+        new_entry["tags"] = cls.process_tags(tags.strip())
 
-        remaining_keys = cls.WORD_KEYS[2:]
+        remaining_keys = cls.WORD_KEYS[1:-1]
         for i, value in enumerate(remaining_values):
             if i >= len(remaining_keys):
                 break

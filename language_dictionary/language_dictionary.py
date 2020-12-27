@@ -5,16 +5,22 @@ from language_dictionary import utils, Word
 TypeLanguageDictionary = TypeVar("TypeLanguageDictionary", bound="LanguageDictionary")
 
 
+class LanguageDictionaryError(Exception):
+    pass
+
 class LanguageDictionary:
-    def __init__(self, language: str, sep: str = "|"):
+    POSSIBLE_SEP = {"\t", "|", "-"}
+
+    def __init__(self, language: str, sep: str = None):
         self.language = language
         self.words = set()
-        self.sep = sep
+        self.sep = sep if sep is not None else "\t"
 
     @classmethod
-    def from_files(cls, language: str, files: List[str], sep: str = "|") -> TypeLanguageDictionary:
+    def from_files(cls, language: str, files: List[str], sep: str = None) -> TypeLanguageDictionary:
         new_dict = LanguageDictionary(language=language, sep=sep)
         lines = cls.get_lines_from_files(files)
+        new_dict.determine_sep(list(lines)[0])
         new_dict.get_words_from_lines(lines)
         return new_dict
 
@@ -22,6 +28,16 @@ class LanguageDictionary:
     def get_lines_from_files(cls, files: List[str]):
         lines = utils.read_lines_from_files(files)
         return cls.format_lines(lines)
+
+    def determine_sep(self, line):
+        if len(line.split(self.sep)) == len(Word.WORD_KEYS):
+            return
+        else:
+            for sep in self.POSSIBLE_SEP.difference({self.sep}):
+                if len(line.split(sep)) == len(Word.WORD_KEYS):
+                    self.sep = sep
+                    return
+            raise LanguageDictionaryError(f"Unable to find appropriate separator for line:\n{line}")
 
     def get_known_word(self, word_to_check: Word):
         for known_word in self.words:
