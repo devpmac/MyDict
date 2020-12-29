@@ -2,7 +2,7 @@ das Anführungszeichen 	 quotation mark 	 Direkte Rede wird in Anführungszeiche
 die Anlage 	 system, investment 	 Die Anlage arbeitet schon vollautomatisch. 	 	 n.f
 die Anlaufstelle 	 contact point 	 Die erste Anlaufstelle für Besucher ist die Rezeption. 	 	 n.f
 die Anmerkung 	 note, comment 	 Ich schrieb eine Anmerkung zu dem unbekannten Begriff. 	 	 n.f
-Anschluss finden 	 to make friends/connections 	 Es kann schon schwierig sein, in einer neuen Stadt Anschluss zu finden. 	 	 expr v
+Anschluss finden 	 to make friends/connections 	 Es kann schon schwierig sein, in einer neuen Stadt Anschluss zu finden. 	 	 v expr
 der Antrag 	 application, request 	 Ich beziehe mich auf Ihr Schreiben bezüglich eines Antrages auf Mieterwechsel. 	 	 n.m
 das Arbeitspensum 	 workload 	 Ich kann mein Arbeitspensum leicht bewältigen. 	 	 n.nt
 der Aufprall 	 impact, collision, crash 	 Beim Aufprall entstand an dem Fiat Totalschaden, geschätzt rund 5000 Euro. 	 	 n.m
@@ -22,7 +22,7 @@ der Belang 	 interest, concern 	 Die Nachrichten sind in der Augen der Journalis
 die Belastbarkeit 	 capacity, resilience 	 Die Belastbarkeit dieses Materials verändert sich je nach Temperatur. 	 	 n.f
 die Belegschaft 	 workforce, staff 	 Die Hälfte der Belegschaft des Unternehmens besteht aus Frauen. 	 	 n.f
 das Benehmen 	 behavior, conduct 	 Das Benehmen meines Bruders ist manchmal komisch. 	 	 n.nt
-die Berechtigung 	 right, entitlement, authorization 	 Berechtigung kann durch eine Systemadministratorin erteilt. 	 	 n.f
+die Berechtigung 	 right, entitlement, authorization 	 Berechtigung kann durch eine Systemadministratorin erteilt werden. 	 	 n.f
 der Berufskraftfahrer 	 trucker 	 Er ist ein Berufskraftfahrer und arbeitet bei einer Spedition. 	 	 n.m
 die Bestechung 	 bribery, corruption 	 Die neue Regierung versprach, Betrug und Bestechung zu bekämpfen. 	 	 n.f
 der Betrug 	 fraud, deception<br>fraud, deception, scam 	 Dem Mann wurden Erpressung und Betrug vorgeworfen.<br>Der Angeklagte wurde wegen Betruges vor Gericht gestellt 	 	 n.m
@@ -40,7 +40,7 @@ die Falte 	 fold, crease, wrinkle 	 Jede Falte des Papierflugzeugs muss an der r
 das Gesundheitswesen 	 healthcare 	 Prävention ist ein wesentliches Element des Gesundheitswesens. 	 	 n.nt
 der Gipfel 	 summit, peak 	 Die Bergsteiger genossen die überwältigende Aussicht vom Gipfel. Zum Glück war er nicht mit Schnee bedeckt. 	 	 n.m
 
-die Hemmung 	 inhibition, suspension 	 Es ist wichtig die Hemmung verlieren, um lockerer auf Deutsch zu sprechen. 	 	 n.f
+die Hemmung 	 inhibition, suspension 	 Es ist wichtig die Hemmung zu verlieren, um lockerer auf Deutsch zu sprechen. 	 	 n.f
 die Hupe 	 horn, klaxon 	 Der Autofahrer betätigte die Hupe, um den Radfahrer zu warnen. 	 	 n.f
 
 die Pfütze 	 puddle 	 Das Eis auf der Pfütze knackt, als ich darauf trat. 	 	 n.f
@@ -89,9 +89,9 @@ ableiten 	 to derive, to deduce 	 Die korrekte Antwort kann aus den Informatione
 absolvieren 	 to complete, to do, to finish 	 Sie absolvierte ihr Studium mit Auszeichnung. 	 	 v
 abwägen 	 to weigh, to balance, to evaluate 	 Wir sollten alle Optionen abwägen, bevor wir unsere Entscheidung treffen. 	 	 v
 ätzend 	 acid, corrosive<br>lousy, awful 	 Sie trug Schutzhandschuhe, wenn sie mit ätzenden Säuren arbeitete.<br>Diesen ganzen Prozess find ich wirklich ätzend. 	 	 adj
+auf das Konto gehen 	 account for 	 Auf ihr Konto gehen die meisten von Wildtieren verursachten Todesfälle. 	 	 v expr
 auf etw [akk] verweisen 	 refer/point to sth 	 Wir verweisen hierzu auf die Erläuterungen der entsprechenden Aktivposten. 	 	 v
-auf dem Teppich bleiben 	 nicht übertreiben 	 Ein bisschen auf dem Teppich bleiben sollte man bei dieser Frage schon und die Dinge gerecht beurteilen. 	 	 expr v
-auf das Konto gehen 	 account for 	 Auf ihr Konto gehen die meisten von Wildtieren verursachten Todesfälle. 	 	 expr v
+auf dem Teppich bleiben 	 nicht übertreiben 	 Ein bisschen auf dem Teppich bleiben sollte man bei dieser Frage schon und die Dinge gerecht beurteilen. 	 	 v expr
 auffallen 	 to stand out, to attract 	 Ihr neuer Haarschnitt fiel ihrem Ehemann sofort auf. 	 	 v
 auflösen 	 to dissolve, to disperse, to close 	 Wir müssen Grenzen auflösen, und mehr Raum für Freidenken schaffen! 	 	 v
 aufnehmen 	 include<br>receive<br>record<br>absorb 	 Der Verlag hat mehr Details in die zweite Ausgabe aufgenommen.<br>Die guten Neuigkeiten wurden mit Freude aufgenommen.<br>Ich habe die Sendung aufgenommen und mir später angeschaut.<br>Pflanzen nehmen Wasser und Kohlendioxid auf. 	 	 v
@@ -126,14 +126,14 @@ hervorheben 	 to highlight, to emphasize 	 Der Lehrer hob die wichtigsten Aspekt
 hinterlegen 	 to deposit, to lodge 	 Ich habe einen Zweitschlüssel bei meinem Freund hinterlegt. 	 	 v
 hüpfen 	 to hop, to leap, to bounce 	 Das Kind hüpfte über die Pfütze. 	 	 v
 
-im Nachhinein 	 in retrospective 	 Im Nachhinein würde ich manche Dinge anders machen. 	 	 expr adv
-in die Hose gehen 	 be a complete flop 	 Ja, ohne diese Mühe kann es alle in die Hose gehen. 	 	 expr v
+im Nachhinein 	 in retrospective 	 Im Nachhinein würde ich manche Dinge anders machen. 	 	 adv expr
+in die Hose gehen 	 be a complete flop 	 Ja, ohne diese Mühe kann es alle in die Hose gehen. 	 	 v expr
 
-jdm. der Schädel brummen 	 starke Kopfschmerzen haben 	 mir brummt der Schädel. 	 	 expr v
-jdm./etw. nicht abkönnen 	 jdn. ertragen, ausstehen 	 Ich kann die nicht ab. 	 	 expr v
+jdm. der Schädel brummen 	 starke Kopfschmerzen haben 	 mir brummt der Schädel. 	 	 v expr
+jdm./etw. nicht abkönnen 	 jdn. ertragen, ausstehen 	 Ich kann die nicht ab. 	 	 v expr
 
 karg 	 sparse, frugal 	 Die Wüste ist trocken mit karger Vegetation. 	 	 adj
-keine Ahnung von Tuten und Blasen haben 	 völlig inkompetent sein 	 Du hast von Tuten und Blasen keine Ahnung. 	 	 expr v
+keine Ahnung von Tuten und Blasen haben 	 völlig inkompetent sein 	 Du hast von Tuten und Blasen keine Ahnung. 	 	 v expr
 kippen 	 to tilt, to tip 	 Eine große Welle kippte das Boot nach links. 	 	 v
 knacken 	 to crack, to break open 	 Die Polizei versucht, den Code zu knacken. 	 	 v
 knüpfen 	 to tie, to knot 	 Die Perser knüpfen in atemberaubender Zeit wunderschöne Teppiche.<br>An diesen Ort knüpfen sich für mich viele schöne Erinnerungen. 	 	 v
@@ -143,7 +143,7 @@ lenken 	 to direct, to control, to steer, to channel 	 Der Fahrer sah den Hund u
 loslegen 	 to get started, to kick off 	 Im Jahr 2016 habe ich mit meinem Studium losgelegt. 	 	 v
 
 mahnen 	 to remind, to urge 	 Der Lehrer mahnte seine Schüler, an die Zukunft zu denken. 	 	 v
-mit etw./jdm. am Hut haben 	 mit etw./jdm. zu tun haben 	 Ich habe nicht so viel mit ihm am Hut. 	 	 expr v
+mit etw./jdm. am Hut haben 	 mit etw./jdm. zu tun haben 	 Ich habe nicht so viel mit ihm am Hut. 	 	 v expr
 mitbekommen 	 to catch, to notice, to understand 	 Ich kenne den Mann, aber seinen Namen habe ich nicht mitbekommen. 	 	 v
 
 nachholen 	 to make up for sth, to catch up for sth 	 Ich habe diese ersten Themen verpasst, aber ich kann die später nachholen. 	 	 v
@@ -154,13 +154,13 @@ platzen 	 to burst, to split, to pop 	 Seifenblasen platzen nach ein paar Sekund
 schal 	 stale, flat 	 Nach zwei Stunden in der Sonne was das Bier schal. 	 	 adj
 schleppend 	 slow, sluggish 	 Der alte Zug fährt im schleppenden Tempo. 	 	 adj
 schmieden 	 to forge, to devise 	 Wir schmiedeten einen Plan und dann setzten wir ihn um. 	 	 v
-sich herausstellen 	 turn out, prove 	 Sein Vorwurf hat sich als falsch herausgestellt. 	 	 v
+sich auf etw [Akk] einstellen 	 prepare, adapt to sth 	 Die Landwirte stellten sich auf einen milden Sommer ein. 	 	 v expr
 sich [akk] mit jdm. anlegen 	 start a fight with sb. 	 Das ist doch kein Grund dich mit ihm anzulegen. 	 	 v
-sich [Akk] anbieten 	 it is useful/appropriate to 	 Es bietet sich an, diese Änderung vorzunehmen. 	 	 expr v
-sich herumsprechen 	 get around, spread 	 Das ist ein Angebot, das sich herumsprechen und bei anderen Veranstaltern Schule machen sollte. 	 	 v
+sich auf etw. [Akk] einigen 	 agree to, agree on 	 Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag. 	 	 v expr
 sich einpendeln 	 even out 	 Es war eine große Anlage, aber sie wird sich mittelfristig einpendeln. 	 	 v
-sich auf etw [Akk] einstellen 	 prepare, adapt to sth 	 Die Landwirte stellten sich auf einen milden Sommer ein. 	 	 expr v
-sich auf etw. [Akk] einigen 	 agree to, agree on 	 Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag. 	 	 expr v
+sich herumsprechen 	 get around, spread 	 Das ist ein Angebot, das sich herumsprechen und bei anderen Veranstaltern Schule machen sollte. 	 	 v
+sich herausstellen 	 turn out, prove 	 Sein Vorwurf hat sich als falsch herausgestellt. 	 	 v
+sich [Akk] anbieten 	 it is useful/appropriate to 	 Es bietet sich an, diese Änderung vorzunehmen. 	 	 v expr
 sofern 	 if, provided that, as long as 	 Änderungen sind erlaubt, sofern sie nicht den Vertrag betreffen. 	 	 conj
 stur 	 stubborn 	 Das sture Kind weigerte sich, sein Gemüse zu essen. 	 	 adj
 
@@ -198,5 +198,5 @@ wortkarg 	 taciturn, silent 	 Der redselige kleine Junge ist heute ungewöhnlich
 zäh 	 tough, tenacious 	 Der Boxer war ein zäher, hartnäckiger Bursche. 	 	 adj
 zitieren 	 to quote 	 Der Lehrer zitierte aus dem Tagebuch des Autors. 	 	 v
 zurückweisen 	 to reject, to overrule, to refuse 	 Mein Vorschlag wurde zurückgewiesen. 	 	 v
-zusammensetzen 	 to compose, to assemble 	 Das Konzert setzte sich aus verschieden Auftritten zusammen. 	 	 v
+zusammensetzen 	 to compose, to assemble 	 Das Konzert setzte sich aus verschiedenen Auftritten zusammen. 	 	 v
 zuschlagen 	 to strike, to slam 	 Vor lauter Wut hat er seine Zimmertür zugeschlagen. 	 	 v

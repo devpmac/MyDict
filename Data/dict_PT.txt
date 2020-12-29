@@ -1,103 +1,100 @@
-alarde | n.m | ostentação, aparato, vanglória | |
-amolar | v | afiar no rebolo, amolgar | |
-amover | v | fazer desaparecer, afastar | |
-amovível | adj | temporário | |
-ancilóstomo | n.m | parasita do intestino delgado | |
-antinomia | n.f | contradição entre duas ideias, proposições ou princípios racionais | |
-ascese | n.f | busca do aperfeiçoamento espiritual através do afastamento do mundo e da renúncia aos prazeres associados à vida terrena | |
-atávico | adj | relativo a atavismo | |
-atavismo | n.m | semelhança com os antepassados | |
-avareza | n.f | Apego ao dinheiro, mesquinhez | |
-avidez | n.f | desejo ardente e insaciável | |
+alarde 	 ostentação, aparato, vanglória 	 	 	 n.m
+amolar 	 afiar no rebolo, amolgar 	 	 	 v
+amover 	 fazer desaparecer, afastar 	 	 	 v
+amovível 	 temporário 	 	 	 adj
+ancilóstomo 	 parasita do intestino delgado 	 	 	 n.m
+antinomia 	 contradição entre duas ideias, proposições ou princípios racionais 	 	 	 n.f
+ascese 	 busca do aperfeiçoamento espiritual através do afastamento do mundo e da renúncia aos prazeres associados à vida terrena 	 	 	 n.f
+atávico 	 relativo a atavismo 	 	 	 adj
+atavismo 	 semelhança com os antepassados 	 	 	 n.m
+avareza 	 Apego ao dinheiro, mesquinhez 	 	 	 n.f
+avidez 	 desejo ardente e insaciável 	 	 	 n.f
 
-basto | adj | compacto, espesso, cheio | |
+basto 	 compacto, espesso, cheio 	 	 	 adj
 
-catalepsia | n.f | imobilidade e inércia de todo o corpo | |
-categórico | adj | decisivo, claro, explícito, terminante | |
-celofane | n.m | folha plástica muito fina | |
-centelha | n.f | faísca | |
-chavelho | n.m | corno, chifre | |
-clangor | n.m | som de trompeta, tinir de armas | |
-convir | v | ser conveniente, útil, concordar, aceitar, corresponder | |
-copioso | adj | abundante, numeroso | |
+catalepsia 	 imobilidade e inércia de todo o corpo 	 	 	 n.f
+categórico 	 decisivo, claro, explícito, terminante 	 	 	 adj
+celofane 	 folha plástica muito fina 	 	 	 n.m
+centelha 	 faísca 	 	 	 n.f
+chavelho 	 corno, chifre 	 Não vale um chavelho! 	 	 n.m
+clangor 	 som de trompeta, tinir de armas 	 	 	 n.m
+convir 	 ser conveniente, útil, concordar, aceitar, corresponder 	 	 	 v
+copioso 	 abundante, numeroso 	 	 	 adj
 
-debalde | adj | inutilmente, em vão | |
-decídua | n.f | o que fica no útero e é expulso depois do parto | |
-decíduo | adj | breve, efémero | |
-decoro | n.m | Respeito de si mesmo e pelos outros, decência | |
-deleite | n.m | prazer suave e demorado | |
-depredação | n.f | roubo, saque, grande estrago | |
-depurar | v | tornar-se puro, purificar-se, limpa-se, tornar-se melhor nalguma coisa | |
-desaforo | n.m | escândalo, insolência, petulância, contrário a decoro | |
-desapiedado | adj | sem piedade, desumano, cruel | |
+debalde 	 inutilmente, em vão 	 	 	 adj
+decídua 	 o que fica no útero e é expulso depois do parto 	 	 	 n.f
+decíduo 	 breve, efémero 	 	 	 adj
+decoro 	 Respeito de si mesmo e pelos outros, decência 	 	 	 n.m
+deleite 	 prazer suave e demorado 	 	 	 n.m
+depredação 	 roubo, saque, grande estrago 	 	 	 n.f
+depurar 	 tornar-se puro, purificar-se, limpa-se, tornar-se melhor nalguma coisa 	 	 	 v
+desaforo 	 escândalo, insolência, petulância, contrário a decoro 	 	 	 n.m
+desapiedado 	 sem piedade, desumano, cruel 	 	 	 adj
 
-encarniçar | v | assanhar, incitar, perseguir com fúria e ódio, enfurecer-se | |
-enriçado | adj | emaranhado, confuso | |
-epiciclo | n.m | órbita circular que os planetas descreveriam em torno da Terra no geocentrismo | |
-ermo | adj | despovoado, isolado | |
-ermo | n.m | lugar desabitado | |
-escamotear | v | fazer desaparecer, furtar com destreza, empalmar, encobrir, esconder | |
-esmeril | n.m |  pedra dura que, reduzida a pó, serve para polir, aperfeiçoamento | |
-estacar | v | segurar com estacas, fazer parar | |
-exaurir | v | acabar, consumir, esgotar, esvaziar | |
+encarniçar 	 assanhar, incitar, perseguir com fúria e ódio, enfurecer-se 	 	 	 v
+enriçado 	 emaranhado, confuso 	 	 	 adj
+epiciclo 	 órbita circular que os planetas descreveriam em torno da Terra no geocentrismo 	 	 	 n.m
+ermo 	 despovoado, isolado 	 	 	 adj
+escamotear 	 fazer desaparecer, furtar com destreza, empalmar, encobrir, esconder 	 	 	 v
+esmeril 	 pedra dura que, reduzida a pó, serve para polir, aperfeiçoamento 	 	 	 n.m
+estacar 	 segurar com estacas, fazer parar 	 	 	 v
+exaurir 	 acabar, consumir, esgotar, esvaziar 	 	 	 v
 
-grassar | v | alastrar-se, desenvolver-se | |
+grassar 	 alastrar-se, desenvolver-se 	 	 	 v
 
-hirsuto | adj | que tem pêlos longos e bastos | |
+hirsuto 	 que tem pêlos longos e bastos 	 	 	 adj
 
-imperioso | adj | autoritário, arrogante | |
-imprecar | v | suplicar, pedir veementemente, rogar pragas | |
-imputar | v | atribuir a responsabilidade de algum acto | |
-indolência | n.f | letargia, ócio, preguiça | |
-indolente | adj | ocioso, negligente | |
-indultar | v | conceder indulto a., perdoar | |
-indulto | n.m | absolvição, perdão, remissão total ou parcial da pena | |
-inepto | adj | inábil, tolo, absurdo | |
-inexaurível | adj | inesgotável, muito abundante | |
-interino | adj | provisório, que não é efetivo | |
+imperioso 	 autoritário, arrogante 	 	 	 adj
+imprecar 	 suplicar, pedir veementemente, rogar pragas 	 	 	 v
+imputar 	 atribuir a responsabilidade de algum acto 	 	 	 v
+indolência 	 letargia, ócio, preguiça 	 	 	 n.f
+indolente 	 ocioso, negligente 	 	 	 adj
+inepto 	 inábil, tolo, absurdo 	 	 	 adj
+inexaurível 	 inesgotável, muito abundante 	 	 	 adj
+interino 	 provisório, que não é efetivo 	 	 	 adj
 
-lenitivo | adj | que alivia, acalma, conforta | |
-lesto | adj | ágil, ligeiro | |
-letárgico | adj | dormente, apático, insensível | |
-lograr | v | gozar a posse de, conseguir, enganar | |
-lucubrar | v | trabalhar com luz artificial de noite, dedicar-se a trabalhos intelectuais | |
-láudano | adj |  opiáceo, emprega-se para adormentar | |
-lúbrico | adj | escorregadio, sensual | |
-lúgubre | adj | relativo a luto, fúnebre | |
+láudano 	 opiáceo, emprega-se para adormentar 	 	 	 adj
+lenitivo 	 que alivia, acalma, conforta 	 	 	 adj
+lesto 	 ágil, ligeiro 	 	 	 adj
+letárgico 	 dormente, apático, insensível 	 	 	 adj
+lograr 	 gozar a posse de, conseguir, enganar 	 	 	 v
+lúbrico 	 escorregadio, sensual 	 	 	 adj
+lucubrar 	 trabalhar com luz artificial de noite, dedicar-se a trabalhos intelectuais 	 	 	 v
+lúgubre 	 relativo a luto, fúnebre 	 	 	 adj
 
-macaréu | n.m | onda do mar que avança pelo rio acima | |
-morganático | adj | casamento de pessoa nobre com outra de condição inferior | |
-multifário | adj | que apresenta vários aspectos | |
+macaréu 	 onda do mar que avança pelo rio acima 	 	 	 n.m
+morganático 	 casamento de pessoa nobre com outra de condição inferior 	 	 	 adj
+multifário 	 que apresenta vários aspectos 	 	 	 adj
 
-níveo | adj | referente à neve, da cor da neve | |
+níveo 	 referente à neve, da cor da neve 	 	 	 adj
 
-penoso | adj | que dá pena, aflige | |
-planturoso | adj | crescido, volumoso, abundante, copioso | |
-profiláctico | adj | preventivo, relativo à profilaxia | |
-profilaxia | n.f | conjunto de providências que se tomam para prevenir doença/contágio | |
-profuso | adj | abundante, copioso | |
-pétreo | adj | tipo pedra | |
-prédica | n.f | discurso religioso, discurso, pedido, prece, súplica | |
-premente | adj | que preme ou comprime, compressor, aflitivo, angustiante, urgente, imediato | |
-prolixo | adj | expresso por muitas palavras, difuso, superabundante, extenso, fastidioso, enfadonho | |
-pueril | adj | relativo a puerícia, que pertence ou diz respeito às crianças, infantil, imaturo, ingénuo | |
-puerícia | n.f | infância | |
+penoso 	 que dá pena, aflige 	 	 	 adj
+pétreo 	 tipo pedra 	 	 	 adj
+planturoso 	 crescido, volumoso, abundante, copioso 	 	 	 adj
+prédica 	 discurso religioso, discurso, pedido, prece, súplica 	 	 	 n.f
+premente 	 que preme ou comprime, compressor, aflitivo, angustiante, urgente, imediato 	 	 	 adj
+profiláctico 	 preventivo, relativo à profilaxia 	 	 	 adj
+profilaxia 	 conjunto de providências que se tomam para prevenir doença/contágio 	 	 	 n.f
+profuso 	 abundante, copioso 	 	 	 adj
+prolixo 	 expresso por muitas palavras, difuso, superabundante, extenso, fastidioso, enfadonho 	 	 	 adj
+puerícia 	 infância 	 	 	 n.f
+pueril 	 relativo a puerícia, que pertence ou diz respeito às crianças, infantil, imaturo, ingénuo 	 	 	 adj
 
-rebolo | n.m | pequena mó para amolar objectos | |
-refulgir | v | brilhar intensamente, resplandecer | |
-repleção | n.f | estado do que é/está repleto | |
-roçagar | v | roçar pelo chão, arrastar-se | |
-rácico | adj | racial | |
+rácico 	 racial 	 	 	 adj
+rebolo 	 pequena mó para amolar objectos 	 	 	 n.m
+refulgir 	 brilhar intensamente, resplandecer 	 	 	 v
+repleção 	 estado do que é/está repleto 	 	 	 n.f
+roçagar 	 roçar pelo chão, arrastar-se 	 	 	 v
 
-sofreguidão | n.f | ansiedade, impaciência, ambição imoderada | |
+sofreguidão 	 ansiedade, impaciência, ambição imoderada 	 	 	 n.f
 
-tartamudear | v | gaguejar, não falar claro, atrapalhar-se | |
-títere | n.m | boneco como marioneta, palhaço | |
-tramitar | v | seguir os trâmites | |
-trâmite | n.m | caminho com direcção determinada, senda, via, fase de um processo, etapa | |
+tartamudear 	 gaguejar, não falar claro, atrapalhar-se 	 	 	 v
+títere 	 boneco como marioneta, palhaço 	 	 	 n.m
+tramitar 	 seguir os trâmites 	 	 	 v
+trâmite 	 caminho com direcção determinada, senda, via, fase de um processo, etapa 	 	 	 n.m
 
-velar | v |  estar de vigia a, estar de guarda a, proteger, fazer serão prolongado, tapar | |
-vacuidade | n.f | estado de vácuo, intelectualmente vazio | |
-vespertino | adj | relativo à tarde | |
-voluptuoso | adj | dado a deleites, sensual, libidinoso, lascivo | |
-voracidade | n.f | apetite devorador, desejo de consumir/destruir | |
+vacuidade 	 estado de vácuo, intelectualmente vazio 	 	 	 n.f
+velar 	 estar de vigia a, estar de guarda a, proteger, fazer serão prolongado, tapar 	 	 	 v
+vespertino 	 relativo à tarde 	 	 	 adj
+voluptuoso 	 dado a deleites, sensual, libidinoso, lascivo 	 	 	 adj
+voracidade 	 apetite devorador, desejo de consumir/destruir 	 	 	 n.f
