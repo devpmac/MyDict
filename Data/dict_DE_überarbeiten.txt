@@ -1,262 +1,253 @@
-das Fragezeichen | n.nt | question mark | |
+der Knack | crack | | | n.m 
 
-die Gänsefüßchen | n.pl | quotation marks | |
+der Knecht | servant | | | n.m
 
-das Gehäuse | n.nt | housing, casing, package | |
+der Lackierer | painter | | | n.m
 
-das Guthaben | n.nt | credit, balance | |
+der Liebhaber | fan, lover | | | n.m
 
-der Klempner | n.m | plumber | |
+der Lieferschein | delivery note/order | | | n.m
 
-die Kluft | n.f | gap | |
+der Mangel | defect | | | n.m
 
-der Knack | n.m | crack | |
+die Nachfolge | succession, emulation | | | n.f
 
-der Knecht | n.m | servant | |
+die Nachlässigkeit | negligence, carelessness | | | n.f
 
-der Lackierer | n.m | painter | |
+der Nachschlag | lookup | | | n.m
 
-der Liebhaber | n.m | fan, lover | |
+die Neigung | tendency | | | n.f
 
-der Lieferschein | n.m | delivery note/order | |
+der Orkan | hurricane | | | n.m
 
-der Mangel | n.m | defect | |
+der Pfad | path | | | n.m
 
-die Nachfolge | n.f | succession, emulation | |
+der Zugriff | access | | | n.m
 
-die Nachlässigkeit | n.f | negligence, carelessness | |
+die Zustellung | service, delivery | | | n.f
 
-der Nachschlag | n.m | lookup | |
+der Zweifel | doubt, question | | | n.m
 
-die Neigung | n.f | tendency | |
 
-der Orkan | n.m | hurricane | |
 
-der Pfad | n.m | path | |
+ablegen | to take (an exam) | | | v
 
-der Zugriff | n.m | access | |
+absichern | to secure, to protect | | | v
 
-die Zustellung | n.f | service, delivery | |
+andersrum | the other way around | | | adv 
 
-der Zweifel | n.m | doubt, question | |
+angewiesen | instructed, dependent | | | adj 
 
-ablegen | v | to take (an exam) | |
+anklemmen | to connect | | | v
 
-absichern | v | to secure, to protect | |
+anlegen | to create, to invest | | | v
 
-andersrum | adv | the other way around | |
+aufgeregt | excited, nervous, agitated | | | adj 
 
-angewiesen | adj | instructed, dependent | |
+aufrichtig | sincere, genuine, honest | | | adj 
 
-anklemmen | v | to connect | |
+aufrufen | to call, to invoke | | | v
 
-anlegen | v | to create, to invest | |
+aufwendig | expensive, elaborate | | | adj 
 
-aufgeregt | adj | excited, nervous, agitated | |
+ausloten | to sound out, to sondar | | | v
 
-aufrichtig | adj | sincere, genuine, honest | |
+ausmessen | to measure, to size | | | v
 
-aufrufen | v | to call, to invoke | |
+ausreichend | sufficient, adequate | | | adj 
 
-aufwendig | adj | expensive, elaborate | |
+bedürfen | to require, to need | | | v
 
-ausloten | v | to sound out, to sondar | |
+beeinträchtigen | to affect, to impair, to compromise | | | v
 
-ausmessen | v | to measure, to size | |
+behalten | to keep, to maintain | | | v
 
-ausreichend | adj | sufficient, adequate | |
+beheben | to remedy, to solve | | | v
 
-bedürfen | v | to require, to need | |
+beibehalten | to maintain | | | v
 
-beeinträchtigen | v | to affect, to impair, to compromise | |
+beliebig | arbitrary, random, optional | | | adj 
 
-behalten | v | to keep, to maintain | |
+benötigen | to need, to require | | | v
 
-beheben | v | to remedy, to solve | |
+bereichernd | rewarding | | | adj 
 
-beibehalten | v | to maintain | |
+bestärken | to strengthen, to encourage | | | v
 
-beliebig | adj | arbitrary, random, optional | |
+bestreuen | to sprinkle, to powder | | | v
 
-benötigen | v | to need, to require | |
+bestürzt | schocked, appalled | | | adj 
 
-bereichernd | adj | rewarding | |
+bewahren | to maintain, to preserve, to keep | | | v
 
-bestärken | v | to strengthen, to encourage | |
+bewältigen | to cope, to overcome, to manage | | | v
 
-bestreuen | v | to sprinkle, to powder | |
+bewirken | to cause, to bring about | | | v
 
-bestürzt | adj | schocked, appalled | |
+bezeichnen | to call, to designate, to denote | | | v
 
-bewahren | v | to maintain, to preserve, to keep | |
+beziehungsweise | rather/to be more precise | | | adv 
 
-bewältigen | v | to cope, to overcome, to manage | |
+brüllen | to roar, to shout | | | v
 
-bewirken | v | to cause, to bring about | |
+demütig | humble | | | adj 
 
-bezeichnen | v | to call, to designate, to denote | |
+durchführen | bis Ende machen | | | v
 
-beziehungsweise | adv | rather/to be more precise | |
+durchschaubar | transparent | | | adj 
 
-brüllen | v | to roar, to shout | |
+durchscheinend | translucid | | | adj 
 
-demütig | adj | humble | |
+durchsichtig | transparent | | | adj 
 
-durchführen | v | bis Ende machen | |
+eingeschränkt | restricted, limited | | | adj 
 
-durchschaubar | adj | transparent | |
+einstellen | to set, to adjust, to cease, to stop | | | v
 
-durchscheinend | adj | translucid | |
+eklig | disgusting | | | adj 
 
-durchsichtig | adj | transparent | |
+entfachen | to spark, to ignite | | | v
 
-eingeschränkt | adj | restricted, limited | |
+entlasten | to relieve, to disburden | | | v
 
-einstellen | v | to set, to adjust, to cease, to stop | |
+entziehen | to withdraw | | | v
 
-eklig | adj | disgusting | |
+erfordern | to require, to call for, to involve | | | v
 
-entfachen | v | to spark, to ignite | |
+ergeizig | ambitious, competitive | | | adj 
 
-entlasten | v | to relieve, to disburden | |
+erheblich | considerable, substantial | | | adj 
 
-entziehen | v | to withdraw | |
+erschöpft | exhausted | | | adj 
 
-erfordern | v | to require, to call for, to involve | |
+erstatten | to reimburse, to refund | | | v
 
-ergeizig | adj | ambitious, competitive | |
+erwerben | to acquire, to gain | | | v
 
-erheblich | adj | considerable, substantial | |
+erzwingen | to enforce, to constrain | | | v
 
-erschöpft | adj | exhausted | |
+fehlerhaft | incorrect, faulty | | | adj 
 
-erstatten | v | to reimburse, to refund | |
+folgendermaßen | as follows | | | adv 
 
-erwerben | v | to acquire, to gain | |
+fordern | to demand, to request | | | v
 
-erzwingen | v | to enforce, to constrain | |
+fördern | to promote, to support | | | v
 
-fehlerhaft | adj | incorrect, faulty | |
+freigeben | to release | | | v
 
-folgendermaßen | adv | as follows | |
+gegebenenfalls | if necessary, where | | | adv 
 
-fordern | v | to demand, to request | |
+genehmigt | to approved, to authorized | | | v
 
-fördern | v | to promote, to support | |
+geschickt | skillful, clever | | | adj 
 
-freigeben | v | to release | |
+getrost | confident, safe | | | adj 
 
-gegebenenfalls | adv | if necessary, where | |
+gewährleisten | to ensure, to guarantee | | | v
 
-genehmigt | v | to approved, to authorized | |
+gewidmet | dedicated, devoted | | | adj 
 
-geschickt | adj | skillful, clever | |
+glatt | smooth, even, straight | | | adj 
 
-getrost | adj | confident, safe | |
+gliedern | to divide, to structure, to order | | | v
 
-gewährleisten | v | to ensure, to guarantee | |
+herangezogen | pulled up, cultivated | | | adj 
 
-gewidmet | adj | dedicated, devoted | |
+jedoch | having said that, though | | | adv 
 
-glatt | adj | smooth, even, straight | |
+jeweils | in each case, respectively | | | adv 
 
-gliedern | v | to divide, to structure, to order | |
+keineswegs | by no means | | | adv 
 
-herangezogen | adj | pulled up, cultivated | |
+kühn | bold | | | adj 
 
-jedoch | adv | having said that, though | |
+lediglich | only, solely | | | adj 
 
-jeweils | adv | in each case, respectively | |
+lückenlos | complete, gapless | | | adj 
 
-keineswegs | adv | by no means | |
+nachträglich | belated, subsequent | | | adj 
 
-kühn | adj | bold | |
+nachvollziehen | to understand, to comprehend | | | v
 
-lediglich | adj | only, solely | |
+ohnehin | already, anyway | | | adv 
 
-lückenlos | adj | complete, gapless | |
+pochen | to insist | | | v
 
-nachträglich | adj | belated, subsequent | |
+redselig | talkative | | | adj 
 
-nachvollziehen | v | to understand, to comprehend | |
+schlank | elegant, slim | | | adj 
 
-ohnehin | adv | already, anyway | |
+schnappen | to snap, to catch, to grab | | | v
 
-pochen | v | to insist | |
+schrumpfen | to shrink | | | v
 
-redselig | adj | talkative | |
+sich mit etw befassen | sich mit etw. stark beschäftigen | | | v
 
-schlank | adj | elegant, slim | |
+stellenweise | in parts, here and there | | | adj 
 
-schnappen | v | to snap, to catch, to grab | |
+umbiegen | to bend, to fold | | | v
 
-schrumpfen | v | to shrink | |
+umgehend | immediately | | | adj 
 
-sich mit etw befassen | v | sich mit etw. stark beschäftigen | |
+umstellen | to adjust, to adapt, to surround | | | v
 
-stellenweise | adj | in parts, here and there | |
+ungeschickt | clumsy, unhandy | | | adj 
 
-umbiegen | v | to bend, to fold | |
+unmittelbar | direct, immediate | | | adj 
 
-umgehend | adj | immediately | |
+unvollständig | incomplete | | | adj 
 
-umstellen | v | to adjust, to adapt, to surround | |
+verfassen | to write, to draft, to pen | | | v
 
-ungeschickt | adj | clumsy, unhandy | |
+verfluchen | to curse, to damn | | | v
 
-unmittelbar | adj | direct, immediate | |
+vergeben | to award, to assign<br>to forgive | | | v
 
-unvollständig | adj | incomplete | |
+verheerend | devastating, disastrous | | | adj 
 
-verfassen | v | to write, to draft, to pen | |
+verlangen | to demand, to request, to claim | | | v
 
-verfluchen | v | to curse, to damn | |
+vermeintlich | supposed, alleged, presumed | | | adj 
 
-vergeben | v | to award, to assign<br>to forgive | |
+verrutschen | to slip, to shift, to displace | | | v
 
-verheerend | adj | devastating, disastrous | |
+verspüren | to feel | | | v
 
-verlangen | v | to demand, to request, to claim | |
+verstreichen | to pass, to elapse | | | v
 
-vermeintlich | adj | supposed, alleged, presumed | |
+verwerfen | to reject, to discard | | | v
 
-verrutschen | v | to slip, to shift, to displace | |
+verwüsten | to devastate, to ravage | | | v
 
-verspüren | v | to feel | |
+verzahnen | to interlock, to interlink | | | v
 
-verstreichen | v | to pass, to elapse | |
+vorerst | for the time being | | | adv 
 
-verwerfen | v | to reject, to discard | |
+vorliegen | to exist, to be there | | | v
 
-verwüsten | v | to devastate, to ravage | |
+vorwerfen | to accuse | | | v
 
-verzahnen | v | to interlock, to interlink | |
+weiterhin | furthermore, also, still | | | adv 
 
-vorerst | adv | for the time being | |
+wettmachen | to offset, to compensate | | | v
 
-vorliegen | v | to exist, to be there | |
+widmen | to pay, to dedicate | | | v
 
-vorwerfen | v | to accuse | |
+wittern | to scent, to sniff, to smell | | | v
 
-weiterhin | adv | furthermore, also, still | |
+wortwörtlich | literal, word-for-word | | | adj 
 
-wettmachen | v | to offset, to compensate | |
+zugänglich | accessible, open, approachable | | | adj 
 
-widmen | v | to pay, to dedicate | |
+zugehörig | belonging to, related | | | adj 
 
-wittern | v | to scent, to sniff, to smell | |
+zumutbar | reasonable, acceptable | | | adj 
 
-wortwörtlich | adj | literal, word-for-word | |
+zuordnen | to assign sth to sb, to allocate | | | v
 
-zugänglich | adj | accessible, open, approachable | |
+zutreffen | to apply, to be true | | | v
 
-zugehörig | adj | belonging to, related | |
-
-zumutbar | adj | reasonable, acceptable | |
-
-zuordnen | v | to assign sth to sb, to allocate | |
-
-zutreffen | v | to apply, to be true | |
 
 
 sich aus etw zusammensetzen
@@ -423,7 +414,6 @@ aufschlagen | zwei aufgeschlagene Eier
 würfeln | fünf klein gewürfelte Kartoffeln
 wiegen | klein gewiegte
 bestreichen
-die Spritze | syringe, injection | Spritzen sind noch immer notwendig für viele Impfungen. | | n.f
 
 minderbemittelt
 Vorlage
@@ -519,5 +509,3 @@ schubsen
 rauskitzeln
 aushaften
 beschnuppern
-
-die Erlösung | redemption, salvation, liberation | "Es gibt keine Erlösung" sagte Adam |  | n.f
