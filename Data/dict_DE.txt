@@ -32,7 +32,7 @@ der Bursche 	 guy, lad 	 Der Sohn meiner Freundin ist ein witziger Bursche. 	 	 
 der Empfänger 	 recipient, receiver 	 Dieses Jahr ist eine Schule der Empfänger unserer Spende. 	 	 n.m
 die Entfaltung 	 unfolding, development 	 Die Entfaltung der drei Szenarien ist zunächst strukturiert durch einen Parameter auf der Eben der internationalen Beziehungen. 	 	 n.f
 der Entwurf 	 design, sketch, concept 	 Sie zeichnet immer Entwürfe, bevor sie die Skulpturen modelliert. 	 	 n.m
-die Erlösung 	 redemption, salvation, liberation 	 "Es gibt keine Erlösung" sagte Adam 	 	 n.f
+die Erlösung 	 redemption, salvation, liberation 	 Es gibt keine Erlösung sagte Adam 	 	 n.f
 die Ermittlung 	 determining, investigation 	 Die Polizei fand die Verbrecher nach gründlichen Ermittlungen. 	 	 n.f
 die Erpressung 	 blackmail, extortion 	 Dem Mann wurde Erpressung und Betrug vorgeworfen. 	 	 n.f
 die Erstellung 	 preparation, creation 	 Der Koch ist für die Erstellung neuer Rezepte zuständig. 	 	 n.f
@@ -64,6 +64,7 @@ der Schädel 	 skull 	 Sicherheitshelme schützen den Schädel. 	 	 n.m
 der Schal 	 scarf 	 Mein neuer Schal ist aus Seide. 	 	 n.m
 die Schnittstelle 	 interface, port, intersection 	 Die neue Schnittstelle des Betriebssystems ist sehr intuitiv. 	 	 n.f
 die Seide 	 silk 	 Mein neuer Schal ist aus Seide. 	 	 n.f
+die Sinnhaftigkeit 	 meaningfulness, usefulness, sense of purpose 	 Die Frage nach der Sinnhaftigkeit der eigenen Arbeit beschäftigt vor allem jüngeren Menschen. 	 	 n.f
 die Spedition 	 shipping company 	 Eine Spedition hat meinen Umzug von Berlin nach Hamburg durchgeführt. 	 	 n.f
 die Spritze 	 syringe, injection 	 Spritzen sind noch immer notwendig für viele Impfungen. 	 	 n.f
 das Studium 	 study, studies 	 Im Jahr 2016 hat mein Studium seinen Anfang genommen. 	 	 n.nt
@@ -89,7 +90,7 @@ der Wachmann 	 security guard 	 Zum Glück war der Wachmann noch da, um mir die 
 die Währung 	 currency 	 Viele Länder in Europa haben die gleiche Währung. 	 	 n.f
 der Wasserhahn 	 faucet, tap 	 Mein Wasserhahn im Badezimmer tropft. 	 	 n.m
 der Wert 	 value, figure, data, worth 	 Bei dem Feuer wurden Waren im Wert von mehreren Millionen Euro vernichtet. 	 	 n.m
-die Wucht 	 impact, force, momentum, power<br>impact, force 	 Die beiden Autos sind mit voller Wucht aufeinandergeprallt.<br>Der Orkan hat dann mit voller Wucht getroffen. 	 	 n.f
+die Wucht 	 impact, force 	 Der Orkan hat dann mit voller Wucht getroffen. 	 	 n.f
 die Würde 	 dignity, honor 	 Alle Angestellten behandeln einander mit Würde und Respekt. 	 	 n.f
 
 der Zustand 	 condition, state 	 Der Tisch ist alt, aber in gutem Zustand. 	 	 n.m
@@ -100,18 +101,27 @@ abgestanden 	 stale, flat 	 Um abgestandene Luft loszuwerden, kann man ein Fenst
 ableiten 	 to derive, to deduce 	 Die korrekte Antwort kann aus den Informationen abgeleitet werden. 	 	 v
 absolvieren 	 to complete, to do, to finish 	 Sie absolvierte ihr Studium mit Auszeichnung. 	 	 v
 abwägen 	 to weigh, to balance, to evaluate 	 Wir sollten alle Optionen abwägen, bevor wir unsere Entscheidung treffen. 	 	 v
+abweichen 	 to differ, to deviate, to diverge 	 Dieser Bericht weicht vom anfänglichen Entwurf ab.<br>Mein Chef mag keine abweichenden Meinungen. 	 	 v
+anmalen 	 to paint, to colour 	 Ich habe meine Wand weiß angemalt.<br>Diese Firmen versuchen ständig sich grün anzumalen. 	 	 v
+ansetzen 	 to start, to attach, to set, to prepare 	 Die Strukturpolitik muss an diesen Schwerpunkten ansetzen... 	 	 v
 ätzend 	 acid, corrosive<br>lousy, awful 	 Sie trug Schutzhandschuhe, wenn sie mit ätzenden Säuren arbeitete.<br>Diesen ganzen Prozess find ich wirklich ätzend. 	 	 adj
-auf dem Teppich bleiben 	 nicht übertreiben 	 Ein bisschen auf dem Teppich bleiben sollte man bei dieser Frage schon und die Dinge gerecht beurteilen. 	 	 v expr
 auf das Konto gehen 	 account for 	 Auf ihr Konto gehen die meisten von Wildtieren verursachten Todesfälle. 	 	 v expr
 auf etw [akk] verweisen 	 refer/point to sth 	 Wir verweisen hierzu auf die Erläuterungen der entsprechenden Aktivposten. 	 	 v
+auf dem Teppich bleiben 	 nicht übertreiben 	 Ein bisschen auf dem Teppich bleiben sollte man bei dieser Frage schon und die Dinge gerecht beurteilen. 	 	 v expr
 auffallen 	 to stand out, to attract 	 Ihr neuer Haarschnitt fiel ihrem Ehemann sofort auf. 	 	 v
 auflösen 	 to dissolve, to disperse, to close 	 Wir müssen Grenzen auflösen, und mehr Raum für Freidenken schaffen! 	 	 v
 aufnehmen 	 include<br>receive<br>record<br>absorb 	 Der Verlag hat mehr Details in die zweite Ausgabe aufgenommen.<br>Die guten Neuigkeiten wurden mit Freude aufgenommen.<br>Ich habe die Sendung aufgenommen und mir später angeschaut.<br>Pflanzen nehmen Wasser und Kohlendioxid auf. 	 	 v
 ausbleiben 	 to stay out<br>to fail to appear, to be absent 	 Die erwarteten Zusammenhänge blieben bei den Ergebnissen der Studie aus. 	 	 v
 ausführen 	 to perform, to carry out, to execute 	 Die Installation wird automatisch ausgeführt. 	 	 v
+äußern 	 to express, to voice, to utter 	 Mein Lehrer ermutigt uns, unsere Meinungen zu äußern. 	 	 v
+aussetzen 	 to suspend, to skip, eine Pause machen<br>expose 	 Könnte die Ratenzahlung für drei Monate ausgesetzt werden? Ich habe meinen Job verloren. 	 	 v
+auswirken 	 to work, to have an effect 	 Auch zu viel Licht wirkt sich negativ auf das Aroma aus 	 	 v
 
 beeinträchtigen 	 to affect, to compromise, to damage 	 Stress beeinträchtigt unser Wohlbefinden.<br>Unternehmen vermeiden Situationen, die ihren Ruf beeinträchtigen. 	 	 v
+begreifen 	 to understand, to grasp, to realise 	 Ich begriff endlich, was mein Lehrer meinte.<br>Er begreift den Fehler, den er gemacht hat. 	 	 v
+benutzen 	 anwenden, to use 	 Ich benutze mein Handy, um SMS zu senden<br>Darf ich mal Ihre Toilette benutzen? 	 	 v
 beschimpfen 	 to abuse, to insult 	 Der wütende Fan beschimpfte den Schiedsrichter. 	 	 v
+beseitigen 	 to eliminate, to remove 	 Es gibt spezielle Shampoos, um Hundeflöhe zu beseitigen.<br>Sie versuchte die Mängel des Systems zu beseitigen. 	 	 v
 besonnen 	 calm, prudent 	 Eine besonnene Person trifft keine übereilten Entscheidungen. 	 	 adj
 beständig 	 constant, resistant 	 Wein muss bei einer beständigen Temperatur gelagert werden. 	 	 adj
 betätigen 	 to press, to operate, to activate 	 Der Wachmann hat den Alarm betätigt. 	 	 v
@@ -120,11 +130,14 @@ bis auf [akk] 	 except for, apart from, up to 	 Das Feld war leer, bis auf eine 
 brummen 	 hum, buzz 	 Kannst du dieses Brummen nicht hören? 	 	 v
 buchstäblich 	 literal 	 Die buchstäbliche Übersetzung eines Wortes ist nicht immer die beste. 	 	 adj
 
+da liegt der Hund begraben 	 Das ist der Kern der (unangenehmen) Sache 	 	 	 expr
 durchsetzen 	 to assert, to enforce, to impose 	 Die Polizei wird die neue Vorschrift durchsetzen. 	 	 v
 durchwachsen 	 mittelmäßig, so-so 	 Mein Studium habe ich mit durchwachsenem Erfolg abgeschlossen. 	 	 adj
 
 entfalten 	 to unfold, to display 	 Die Künstlering entfaltete ihr ganzes Potential.<br>Wenn der Schmetterling aus der Puppe kommt, entfalten sich seine Flügel. 	 	 v
 entlarven 	 to debunk, to unmask, to expose 	 Der Ermittler entlarvte die Täter. 	 	 v
+erfassen 	 to record, to collect, to capture 	 Die Buchhaltung erfasst alle Transaktionen.<br>Dieses Foto erfasst wirklich die Stimmung des Moments 	 	 v
+ermuntern 	 ermutigen<br>to encourage, to give hope 	 Die gute Nachricht ermunterte mich 	 	 v
 erörtern 	 to discuss, to debate 	 Ich erörtere gerne philosophische Fragen. 	 	 v
 
 fade 	 bland, insipid 	 Das Essen schmeckte etwas fade, es war gar nicht schmackhaft. 	 	 adj
@@ -136,6 +149,7 @@ gähnen 	 to yawn 	 Der kleine Junge gähnt viel, er scheint müde zu sein. 	 	 
 gelegentlich 	 occasionally<br>ab und zu, hin und wieder 	 Das Sofabett ist nur für den gelegentlichen Gebrauch geeignet. 	 	 adv adj
 gerecht 	 just, fair 	 Ein guter Richter ist unparteiisch und gerecht. 	 	 adj
 
+handeln 	 to act, to trade, to take action 	 Wir müssen jetzt handeln, die Lage ist ernst.<br>Echte Helden sitzen nicht einfach herum - sie handeln! 	 	 v
 handfest 	 concrete, tangible, substantial 	 Die Ergebnisse der Studie beruhen auf handfesten Daten. 	 	 adj
 hartnäckig 	 stubborn, persistent 	 Hartnäckige Menschen geben nicht leift auf. 	 	 adj
 hauchen 	 to breathe, to aspirate 	 Ein Hauch von Schnee hatte den Rasen über Nacht weiß gefärbt 	 	 v
@@ -153,6 +167,7 @@ karg 	 sparse, frugal 	 Die Wüste ist trocken mit karger Vegetation. 	 	 adj
 keine Ahnung von Tuten und Blasen haben 	 völlig inkompetent sein 	 Du hast von Tuten und Blasen keine Ahnung. 	 	 v expr
 kippen 	 to tilt, to tip 	 Eine große Welle kippte das Boot nach links. 	 	 v
 knacken 	 to crack, to break open 	 Die Polizei versucht, den Code zu knacken. 	 	 v
+knipsen 	 fotografieren<br>mit den Fingern einen kurzen Laut erzeugen<br>eine Fahrkarte mit einer Lochzange entwerten 	 Roman knipste nur einmal mit den Fingern und der Hund legte sich nieder.<br>Während der Reise habe ich viele Bilder geknipst. 	 	 v
 knüpfen 	 to tie, to knot 	 Die Perser knüpfen in atemberaubender Zeit wunderschöne Teppiche.<br>An diesen Ort knüpfen sich für mich viele schöne Erinnerungen. 	 	 v
 
 leisten 	 to provide, to do, to perform, to achieve 	 Die Freiwilligen leisten tolle Arbeit.<br>Glückwunsch, du hast eine Menge geleistet! 	 	 v
@@ -162,9 +177,11 @@ loslegen 	 to get started, to kick off 	 Im Jahr 2016 habe ich mit meinem Studiu
 mahnen 	 to remind, to urge 	 Der Lehrer mahnte seine Schüler, an die Zukunft zu denken. 	 	 v
 mit etw./jdm. am Hut haben 	 mit etw./jdm. zu tun haben 	 Ich habe nicht so viel mit ihm am Hut. 	 	 v expr
 mitbekommen 	 to catch, to notice, to understand 	 Ich kenne den Mann, aber seinen Namen habe ich nicht mitbekommen. 	 	 v
+mitteilen 	 to inform, to communicate 	 Mein Chef hat mir noch nicht mitgeteilt, wann genau ich den Vortrag halten muss. 	 	 v
 
 nachholen 	 to make up for sth, to catch up for sth 	 Ich habe diese ersten Themen verpasst, aber ich kann die später nachholen. 	 	 v
 nächtlich 	 nocturnal, nighttime 	 Ich habe Spaß am Tanzen und anderen nächtlichen Aktivitäten. 	 	 adj
+nutzen 	 to use 	 Nutze deine Zeit sinnvoll!<br>Ich muss diese Chance nutzen.<br>Sabine nutzt täglich den Bus, um ohne Stress zur Arbeit zu kommen. 	 	 v
 
 platzen 	 to burst, to split, to pop 	 Seifenblasen platzen nach ein paar Sekunden.<br>Beim Aufprall platzen Wasserbomben meistens. 	 	 v
 prallen 	 gegen etwas stoßen<br>stark scheinen 	 Der Ball prallte gegen das Fenster.<br>Ich liebe es, am Strand zu liegen und mir die Sonne auf die Haut prallen zu lassen. 	 	 v
@@ -172,13 +189,13 @@ prallen 	 gegen etwas stoßen<br>stark scheinen 	 Der Ball prallte gegen das Fen
 schal 	 stale, flat 	 Nach zwei Stunden in der Sonne was das Bier schal. 	 	 adj
 schleppend 	 slow, sluggish 	 Der alte Zug fährt im schleppenden Tempo. 	 	 adj
 schmieden 	 to forge, to devise 	 Wir schmiedeten einen Plan und dann setzten wir ihn um. 	 	 v
+sich auf etw [Akk] einstellen 	 prepare, adapt to sth 	 Die Landwirte stellten sich auf einen milden Sommer ein. 	 	 v expr
+sich herumsprechen 	 get around, spread 	 Das ist ein Angebot, das sich herumsprechen und bei anderen Veranstaltern Schule machen sollte. 	 	 v
 sich [Akk] anbieten 	 it is useful/appropriate to 	 Es bietet sich an, diese Änderung vorzunehmen. 	 	 v expr
 sich herausstellen 	 turn out, prove 	 Sein Vorwurf hat sich als falsch herausgestellt. 	 	 v
-sich herumsprechen 	 get around, spread 	 Das ist ein Angebot, das sich herumsprechen und bei anderen Veranstaltern Schule machen sollte. 	 	 v
+sich einpendeln 	 even out 	 Es war eine große Anlage, aber sie wird sich mittelfristig einpendeln. 	 	 v
 sich [akk] austoben 	 let off steam, give vent 	 Verheerende Stürme können über Städte hinwegziehen oder sich über Ozeanen austoben 	 	 v expr
 sich auf etw. [Akk] einigen 	 agree to, agree on 	 Das Komitee einigte sich auf ein erneutes Treffen am nächsten Tag. 	 	 v expr
-sich auf etw [Akk] einstellen 	 prepare, adapt to sth 	 Die Landwirte stellten sich auf einen milden Sommer ein. 	 	 v expr
-sich einpendeln 	 even out 	 Es war eine große Anlage, aber sie wird sich mittelfristig einpendeln. 	 	 v
 sich [akk] mit jdm. anlegen 	 start a fight with sb. 	 Das ist doch kein Grund dich mit ihm anzulegen. 	 	 v
 sofern 	 if, provided that, as long as 	 Änderungen sind erlaubt, sofern sie nicht den Vertrag betreffen. 	 	 conj
 stur 	 stubborn 	 Das sture Kind weigerte sich, sein Gemüse zu essen. 	 	 adj
@@ -196,7 +213,9 @@ unternehmen 	 to undertake, zusammen machen 	 Mein Freund und ich planen, was wi
 unverlässlich 	 essential, indispensable, mandatory 	 Eine kompetente Verwendung der Sprache ist unverlässlich. 	 	 adj
 
 verauslagen 	 to disburse 	 Ich habe dir den verauslagten Betrag gerade überwiesen. 	 	 v
+verbleiben 	 bei etw./jdm [dat] bleiben, so bleiben wie es ist 	 Er ging in die Wüste und verblieb dort für eine Woche. 	 	 v
 verdichten 	 to compact, to condense, to compress 	 Diese Maschine verdichtet das Material, indem sie Druck ausübt. 	 	 v
+verfassen 	 to write, to draft, to compose 	 Ich habe ein Gedicht für meine Freundin verfasst. 	 	 v
 verheeren 	 to devastate, to ravage 	 Konflikte innerhalb von und zwischen Staaten verheeren Land und Menschen 	 	 v
 verleiten 	 to induce, to tempt, to entice 	 Meine Freundin verleitete mich, das Kleid zu kaufen. 	 	 v
 vernichten 	 to destroy, to obliterate 	 Der Sturm droht die Ernte zu vernichten. 	 	 v
@@ -208,6 +227,7 @@ verwelken 	 to wither, to fade 	 Die Blumen verwelken in der Hitze. 	 	 v
 verzeichnen 	 to record, to list, to register 	 Die Website verzeichnet immer mehr Visits<br>Das Unternehmen verzeichnete einen kontinuierlichen Gewinnanstieg 	 	 v
 vollziehen 	 to carry out, to administer 	 Der Politiker vollzieht Beschlüsse aus der Kaffeerunde bei der Kanzlerin. 	 	 v
 von etw ausgehen 	 assume 	 Die Deutsche gehen von einer zweiten Welle an. 	 	 v
+von etw [dat] handeln 	 um etw. [akk] gehen<br>to deal with sth, to be about sth 	 Die Stunde handelte von zusammengesetzten Adjektiven 	 	 v expr
 vorig 	 previous 	 Bereits im vorigen Herbst hatte der Schriftsteller ein neues Buch veröffentlicht. 	 	 adj
 vorübergehend 	 temporary, momentary, passing 	 Wir brauchen eine dauerhafte Lösung, keine vorübergehende. 	 	 adj
 vorwiegend 	 predominant, main<br>primarily, mainly 	 Unser Wachstumsschwerpunkt ist vorwiegend in Osteuropa.<br>Wir bestehen vorwiegend aus Wasser. 	 	 adv adj
@@ -220,6 +240,7 @@ wortkarg 	 taciturn, silent 	 Der redselige kleine Junge ist heute ungewöhnlich
 
 zäh 	 tough, tenacious 	 Der Boxer war ein zäher, hartnäckiger Bursche. 	 	 adj
 zitieren 	 to quote 	 Der Lehrer zitierte aus dem Tagebuch des Autors. 	 	 v
+zum Ausdruck bringen 	 to express, to voice 	 Manche Menschen können ihre Gefühle leicht zum Ausdruck bringen. 	 	 v expr
 zurückweisen 	 to reject, to overrule, to refuse 	 Mein Vorschlag wurde zurückgewiesen. 	 	 v
 zusammensetzen 	 to compose, to assemble 	 Das Konzert setzte sich aus verschiedenen Auftritten zusammen. 	 	 v
 zuschlagen 	 to strike, to slam 	 Vor lauter Wut hat er seine Zimmertür zugeschlagen. 	 	 v
